@@ -83,3 +83,5 @@ intelectual y de ruptura con las certezas anteriores, tanto en la ciencia como e
 5. Vincenzo Galilei, padre del astrónomo Galileo Galilei, fue uno de los integrantes de la
    Camerata Florentina, lo que muestra que la audacia intelectual del Barroco atravesaba tanto la
    música como la ciencia en las mismas familias y círculos sociales.
+
+[⬅ volver al índice del curso](../../README.md)

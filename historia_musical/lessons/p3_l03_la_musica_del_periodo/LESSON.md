@@ -104,3 +104,5 @@ en todo el mundo.
    privada, por placer propio, no para una audiencia pagante ni para un contexto litúrgico. Eso
    contrasta con la misa, pensada para la liturgia pública de la Iglesia y cantada, en general, por
    coros profesionales entrenados.
+
+[⬅ volver al índice del curso](../../README.md)

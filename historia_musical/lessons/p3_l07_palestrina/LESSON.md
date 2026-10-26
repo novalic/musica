@@ -83,3 +83,5 @@ Palestrina.
 5. Mozart y Beethoven, entre otros compositores de fases posteriores de este curso, estudiaron
    contrapunto siguiendo reglas derivadas directamente del estilo de Palestrina, lo que muestra la
    influencia pedagógica de su obra incluso mucho después del Renacimiento.
+
+[⬅ volver al índice del curso](../../README.md)

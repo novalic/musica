@@ -83,3 +83,5 @@ espacio, el antecedente de la "música espacial" veneciana.
 4. Deberías poder apreciar, si la grabación lo permite, cómo distintos grupos de voces o
    instrumentos parecen responderse entre sí desde ubicaciones distintas, un efecto espacial que
    aprovechaba la arquitectura particular de la Basílica de San Marco de Venecia.
+
+[⬅ volver al índice del curso](../../README.md)

@@ -97,3 +97,5 @@ polifónica del Renacimiento y las novedades del nuevo período.
    no abandonó la herencia polifónica del Renacimiento porque sofistica todavía más esa técnica de
    imitación entre voces, en convivencia con las novedades del bajo continuo y la monodia
    acompañada.
+
+[⬅ volver al índice del curso](../../README.md)

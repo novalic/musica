@@ -88,3 +88,5 @@ todavía el lenguaje técnico central de la música culta europea.
    heredada del Renacimiento, y su publicación póstuma e inconclusa simboliza el cierre de la era
    en que el contrapunto complejo era todavía el lenguaje técnico central de la música culta
    europea.
+
+[⬅ volver al índice del curso](../../README.md)

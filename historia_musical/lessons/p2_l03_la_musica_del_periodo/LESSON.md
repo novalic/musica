@@ -112,3 +112,5 @@ inventó un monje italiano hace casi mil años.
    d'Arezzo, tomando las sílabas iniciales de las frases de un himno latino a San Juan Bautista. Con
    el tiempo "ut" se cambió por "do" y se agregó "si", dando el sistema do-re-mi-fa-sol-la-si que
    se usa hoy.
+
+[⬅ volver al índice del curso](../../README.md)

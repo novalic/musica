@@ -100,3 +100,5 @@ obra sobrevivió y el nombre de quien la hizo, no.
    gracias a estar grabada en una tablilla de arcilla, el nombre de la persona que la compuso se
    perdió para siempre. Es representativo de cómo funcionaba la autoría musical durante la
    inmensa mayoría de la historia: la obra podía trascender, pero casi nunca el autor individual.
+
+[⬅ volver al índice del curso](../../README.md)

@@ -74,3 +74,5 @@ historia de la ópera.
    de sus primeros madrigales, para después convertirse él mismo en uno de los creadores centrales
    del nuevo lenguaje de la ópera y la monodia acompañada, en lugar de simplemente heredar un
    estilo ya hecho.
+
+[⬅ volver al índice del curso](../../README.md)

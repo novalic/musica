@@ -109,3 +109,5 @@ imprenta musical de Ottaviano Petrucci en 1501).
 5. La caída de Constantinopla en manos del Imperio Otomano en 1453 (fin definitivo del Imperio
    Romano de Oriente) y la invención de la imprenta de tipos móviles por Johannes Gutenberg hacia
    1450, que unas décadas más tarde va a transformar radicalmente la difusión de la música escrita.
+
+[⬅ volver al índice del curso](../../README.md)

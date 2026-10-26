@@ -98,3 +98,5 @@ poco sobre su estructura mientras escuchás) al truco del palíndromo musical de
    vihuela de rueda), centrada en un tema humano y emocional (el amor no correspondido) en lugar de
    un texto sagrado en latín, lo que la acerca mucho más, en espíritu, a lo que hoy entendemos como
    una canción.
+
+[⬅ volver al índice del curso](../../README.md)

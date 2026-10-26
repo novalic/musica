@@ -84,3 +84,5 @@ siguiendo la demanda de mecenazgo que describimos en la lección 3.1.
    nuevo ideal renacentista de consonancia fluida y equilibrio sonoro, y porque su carrera
    internacional (Francia, Italia, la corte de Borgoña) anticipa el patrón de circulación entre las
    grandes cortes europeas que va a caracterizar a los compositores renacentistas posteriores.
+
+[⬅ volver al índice del curso](../../README.md)

@@ -83,3 +83,5 @@ anticipa estilos posteriores (lección 4.10).
    popular e interpretada hoy en día.
 4. Un bajo que se repite de forma obsesiva a lo largo de toda la pieza, mientras la melodía de la
    voz por encima se va intensificando y volviendo cada vez más desgarradora.
+
+[⬅ volver al índice del curso](../../README.md)

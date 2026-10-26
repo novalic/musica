@@ -75,3 +75,5 @@ siglo XX (lección 11).
    se responden entre sí desde ubicaciones físicas distintas dentro del edificio, generando un
    efecto espacial de sonido que rodea al oyente. Solo podía desarrollarse en un lugar con esa
    configuración arquitectónica particular, que pocos edificios de la época tenían.
+
+[⬅ volver al índice del curso](../../README.md)

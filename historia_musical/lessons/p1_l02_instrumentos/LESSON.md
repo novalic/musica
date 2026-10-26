@@ -145,3 +145,5 @@ procesión o ahuyentar espíritus malos, según la creencia egipcia.
    resonancia decorada con una cabeza de toro de oro y lapislázuli, y se encontró en una tumba real,
    lo que indica que no era un instrumento cualquiera sino una pieza ligada al poder y al prestigio
    religioso de quien lo poseía.
+
+[⬅ volver al índice del curso](../../README.md)

@@ -82,3 +82,5 @@ este curso.
    impresores musicales y estudiado como modelo técnico durante generaciones, lo que anticipa la
    idea de que la obra de un compositor puede trascender su propia época y volverse referencia
    obligada para quienes vienen después.
+
+[⬅ volver al índice del curso](../../README.md)

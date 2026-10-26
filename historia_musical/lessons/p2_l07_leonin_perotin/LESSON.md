@@ -101,3 +101,5 @@ próxima lección.
    cuatro voces simultáneas, un nivel de complejidad polifónica sin precedentes para su época, lo
    que las convierte, junto con el "Ordo Virtutum" de Hildegard de Bingen, en piezas fundacionales
    de la polifonía occidental.
+
+[⬅ volver al índice del curso](../../README.md)

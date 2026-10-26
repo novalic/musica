@@ -110,3 +110,5 @@ Guillaume de Machaut, quien vivió la peste de primera mano.
    de canto, porque monasterios enteros perdieron a buena parte de su comunidad, incluidos
    cantores y compositores entrenados. Además, la crisis existencial que generó la pandemia se
    refleja en el tono más personal y a veces pesimista de parte de la música del Ars Nova tardío.
+
+[⬅ volver al índice del curso](../../README.md)

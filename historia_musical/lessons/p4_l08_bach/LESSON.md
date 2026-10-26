@@ -77,3 +77,5 @@ de su obra en el siglo XIX, liderado por compositores como Felix Mendelssohn.
 5. Se produjo en el siglo XIX, liderado por compositores como Felix Mendelssohn, décadas después
    de la muerte de Bach, quien en vida había sido conocido sobre todo como un extraordinario
    organista e improvisador, más que como compositor genial.
+
+[⬅ volver al índice del curso](../../README.md)

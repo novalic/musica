@@ -76,3 +76,5 @@ términos de reconocimiento inmediato de su música por el público general.
 5. Su música cayó en un olvido casi total después de su muerte, y recién fue "redescubierta" y
    revalorizada de forma masiva en el siglo XX, lo que explica por qué hoy es, probablemente, el
    compositor barroco más escuchado y popular a nivel masivo.
+
+[⬅ volver al índice del curso](../../README.md)

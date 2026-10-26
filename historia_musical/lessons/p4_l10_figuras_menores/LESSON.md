@@ -80,3 +80,5 @@ estos compositores barrocos no siempre coincidió con la que tenían en su propi
    sus hijos. El hecho de que en vida Telemann fuera considerablemente más famoso y solicitado que
    Bach muestra que la jerarquía de fama que conocemos hoy entre estos compositores no siempre
    coincidió con la que tenían en su propia época.
+
+[⬅ volver al índice del curso](../../README.md)

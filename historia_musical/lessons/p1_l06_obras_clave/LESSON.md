@@ -91,3 +91,5 @@ suave descripto en la lección 1.2.
    breve de la existencia, grabado como epitafio en una tumba.
 4. Se compuso para un agón religioso (una competencia musical oficial) en honor a Apolo en el
    templo de Delfos, el mismo tipo de evento descripto en la lección 1.4 sobre los Juegos Píticos.
+
+[⬅ volver al índice del curso](../../README.md)

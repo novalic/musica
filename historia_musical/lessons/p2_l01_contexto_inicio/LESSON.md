@@ -100,3 +100,5 @@ lengua litúrgica. Fue, en los hechos, el primer "estándar" musical paneuropeo 
 5. Que un canto compuesto en un monasterio de un país podía cantarse, con el mismo texto y la misma
    melodía, en un monasterio de cualquier otro país europeo, porque todos compartían la misma
    lengua litúrgica. Fue, en los hechos, el primer estándar musical paneuropeo de la historia.
+
+[⬅ volver al índice del curso](../../README.md)

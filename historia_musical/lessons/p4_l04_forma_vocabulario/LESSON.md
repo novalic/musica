@@ -94,3 +94,5 @@ clásica" mucho más estandarizada que vas a encontrar en períodos posteriores 
 5. Porque, aunque comparten el nombre, la sonata barroca es bastante libre en su forma (varios
    movimientos contrastantes, sin una estructura fija estandarizada), mientras que la sonata
    clásica de períodos posteriores sigue un esquema formal mucho más estricto y codificado.
+
+[⬅ volver al índice del curso](../../README.md)

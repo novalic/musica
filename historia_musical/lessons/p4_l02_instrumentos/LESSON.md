@@ -88,3 +88,5 @@ obras como las de Bach y Handel, que vas a conocer en las lecciones 4.8 y 4.9.
 5. Porque, al no tener válvulas (una invención del siglo XIX), el intérprete depende enteramente
    de la presión del aire y la forma de los labios para producir distintas notas, lo que exige una
    habilidad técnica mucho mayor que la de un trompetista con un instrumento moderno de válvulas.
+
+[⬅ volver al índice del curso](../../README.md)

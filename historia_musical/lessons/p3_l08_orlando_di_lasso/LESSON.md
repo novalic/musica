@@ -82,3 +82,5 @@ muy distinto del anonimato casi total con el que empezamos este curso en la Fase
    un músico de su época. Esto muestra que, hacia fines del siglo XVI, un compositor de gran
    prestigio podía alcanzar un estatus social muy distinto del anonimato casi total que
    caracterizaba a los músicos de las fases más tempranas de este curso.
+
+[⬅ volver al índice del curso](../../README.md)

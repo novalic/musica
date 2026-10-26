@@ -100,3 +100,5 @@ autoría individual que va a definir el resto de la historia de la música occid
    obra completa en vida, y su identidad creativa individual fue reconocida y valorada
    explícitamente por sus contemporáneos, a diferencia del anonimato casi total de las figuras
    anteriores de este curso.
+
+[⬅ volver al índice del curso](../../README.md)

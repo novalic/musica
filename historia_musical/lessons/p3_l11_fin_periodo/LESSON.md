@@ -86,3 +86,5 @@ continuo" que va a definir toda la música del Barroco (lección 4.3).
    manifestó en el madrigalismo (lección 3.3), se mantiene y se radicaliza en el Barroco: la ópera
    nace precisamente de la búsqueda de una forma musical que exprese el texto y la emoción con
    total claridad, sin que la polifonía la oscurezca.
+
+[⬅ volver al índice del curso](../../README.md)

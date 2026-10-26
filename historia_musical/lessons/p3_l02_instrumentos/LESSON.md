@@ -119,3 +119,5 @@ combinaciones brillantes y potentes.
    distinto, dentro del mismo instrumento. Le permiten al organista combinar sonoridades para lograr
    timbres muy variados, desde sonidos suaves y flautados hasta combinaciones brillantes y
    potentes, en lugar de tener siempre el mismo timbre fijo.
+
+[⬅ volver al índice del curso](../../README.md)

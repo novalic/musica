@@ -116,3 +116,5 @@ Roma.
    organización coherente en todo el continente (edificios propios, jerarquía propia, una lengua
    común en latín), lo que le permitió ser la única estructura capaz de financiar y organizar la
    vida musical de forma sostenida.
+
+[⬅ volver al índice del curso](../../README.md)

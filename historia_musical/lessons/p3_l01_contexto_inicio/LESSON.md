@@ -91,3 +91,5 @@ estructural importante respecto de la Edad Media, y va a seguir profundizándose
    Renacimiento el mecenazgo se reparte entre tres fuentes: la Iglesia, las cortes nobles seculares
    y, cada vez más, las ciudades mercantiles ricas, una diversificación que va a seguir
    profundizándose durante el Barroco.
+
+[⬅ volver al índice del curso](../../README.md)

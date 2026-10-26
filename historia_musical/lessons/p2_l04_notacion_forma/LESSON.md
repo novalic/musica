@@ -111,3 +111,5 @@ toda la complejidad rítmica del Ars Nova del siglo XIV (lección 2.8, con Guill
    mismo tiempo (no solo melodías distintas, sino también ritmos distintos y complejos), es
    indispensable contar con un sistema de notación que fije la duración exacta de cada nota en
    cada voz; sin eso, sería imposible coordinar con precisión esa complejidad rítmica simultánea.
+
+[⬅ volver al índice del curso](../../README.md)

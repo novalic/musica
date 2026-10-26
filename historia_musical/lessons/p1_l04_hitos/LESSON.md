@@ -111,3 +111,5 @@ el cierre simbólico de esta fase y la apertura de la siguiente.
    Pitágoras), y ese libro se convirtió en el manual obligatorio de música en las universidades
    medievales durante casi mil años. Es, literalmente, el texto que lleva el conocimiento musical
    de la Antigüedad hacia la Edad Media.
+
+[⬅ volver al índice del curso](../../README.md)

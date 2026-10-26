@@ -95,3 +95,5 @@ directamente de ella.
    entre trovadores y troveros, que en su mayoría escribían música monofónica. Esto lo convierte en
    una figura de transición entre la tradición cortesana clásica y las técnicas más complejas
    desarrolladas en paralelo por compositores como Léonin y Pérotin.
+
+[⬅ volver al índice del curso](../../README.md)

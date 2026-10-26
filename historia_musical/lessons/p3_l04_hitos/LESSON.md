@@ -103,3 +103,5 @@ latinoamericana que vas a ver en fases mucho más avanzadas de este curso (el ta
    paralelo, elementos de la música indígena y de la música africana traída por el comercio de
    personas esclavizadas comenzaron a mezclarse con la tradición europea, un proceso que es una de
    las raíces de buena parte de la música popular latinoamericana posterior.
+
+[⬅ volver al índice del curso](../../README.md)

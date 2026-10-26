@@ -128,3 +128,5 @@ años en Europa, estudiado obligatoriamente en las universidades medievales.
    griegas (incluida la de Pitágoras), y ese libro se convirtió en el manual de teoría musical más
    estudiado en las universidades medievales durante los siguientes mil años, siendo la bisagra
    que conectó el pensamiento musical de la Antigüedad con la Edad Media.
+
+[⬅ volver al índice del curso](../../README.md)

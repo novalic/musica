@@ -93,3 +93,5 @@ que se le puede otorgar a un santo por su aporte teológico.
    profundamente dominadas por los hombres, y porque logró, gracias al respaldo papal que recibió
    por sus visiones, una proyección pública y una libertad creativa que ninguna otra mujer de su
    tiempo alcanzó.
+
+[⬅ volver al índice del curso](../../README.md)

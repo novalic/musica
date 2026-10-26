@@ -82,3 +82,5 @@ claridad del estilo galante.
    concierto para solista (consolidado por Vivaldi), y la idea barroca de que la música puede y
    debe conmover profundamente al oyente, llevada más lejos con un lenguaje musical más simple y
    directo en los períodos posteriores.
+
+[⬅ volver al índice del curso](../../README.md)

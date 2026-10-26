@@ -132,3 +132,5 @@ distancia en una ciudad medieval.
    campanas afinadas para tocar melodías, con un sonido metálico de gran resonancia capaz de
    escucharse a kilómetros de distancia, lo que las convertía en una forma de comunicación musical
    pública a escala de toda una ciudad, algo que ningún otro instrumento de la época podía lograr.
+
+[⬅ volver al índice del curso](../../README.md)
