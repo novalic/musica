@@ -171,7 +171,7 @@ const LESSONS = [
     "summary": "humanismo, mecenazgo de las cortes italianas, el renacer cultural europeo",
     "summaryText": "humanismo, mecenazgo de las cortes italianas, el renacer cultural europeo",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.2",
@@ -180,7 +180,7 @@ const LESSONS = [
     "summary": "laúd, viola da gamba, clavicémbalo, chirimía, el órgano renacentista",
     "summaryText": "laúd, viola da gamba, clavicémbalo, chirimía, el órgano renacentista",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.3",
@@ -189,7 +189,7 @@ const LESSONS = [
     "summary": "polifonía vocal, la misa y el motete, el madrigal, cómo suena",
     "summaryText": "polifonía vocal, la misa y el motete, el madrigal, cómo suena",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.4",
@@ -198,7 +198,7 @@ const LESSONS = [
     "summary": "la imprenta musical de Petrucci, el Concilio de Trento, la Reforma protestante",
     "summaryText": "la imprenta musical de Petrucci, el Concilio de Trento, la Reforma protestante",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.5",
@@ -207,7 +207,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.6",
@@ -216,7 +216,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.7",
@@ -225,7 +225,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.8",
@@ -234,7 +234,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.9",
@@ -243,7 +243,7 @@ const LESSONS = [
     "summary": "Thomas Tallis, William Byrd, Giovanni Gabrieli",
     "summaryText": "Thomas Tallis, William Byrd, Giovanni Gabrieli",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.10",
@@ -252,7 +252,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "3.11",
@@ -261,7 +261,7 @@ const LESSONS = [
     "summary": "la crisis religiosa y estética que abre paso al Barroco",
     "summaryText": "la crisis religiosa y estética que abre paso al Barroco",
     "phase": "Fase 3 — Renacimiento",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.1",
@@ -270,7 +270,7 @@ const LESSONS = [
     "summary": "absolutismo, mecenazgo cortesano y religioso, el nacimiento de la ópera",
     "summaryText": "absolutismo, mecenazgo cortesano y religioso, el nacimiento de la ópera",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.2",
@@ -279,7 +279,7 @@ const LESSONS = [
     "summary": "clavecín, órgano barroco, el violín moderno, instrumentos del bajo continuo",
     "summaryText": "clavecín, órgano barroco, el violín moderno, instrumentos del bajo continuo",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.3",
@@ -288,7 +288,7 @@ const LESSONS = [
     "summary": "contrapunto, bajo continuo, ornamentación, cómo suena",
     "summaryText": "contrapunto, bajo continuo, ornamentación, cómo suena",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.4",
@@ -297,7 +297,7 @@ const LESSONS = [
     "summary": "la fuga, la suite, el concierto, la forma ritornello, la ópera temprana",
     "summaryText": "la fuga, la suite, el concierto, la forma ritornello, la ópera temprana",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.5",
@@ -306,7 +306,7 @@ const LESSONS = [
     "summary": "el estreno de L&#x27;Orfeo, las academias de música, la expansión de la ópera por Europa",
     "summaryText": "el estreno de L'Orfeo, las academias de música, la expansión de la ópera por Europa",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.6",
@@ -315,7 +315,7 @@ const LESSONS = [
     "summary": "biografía y obra, el nacimiento de la ópera",
     "summaryText": "biografía y obra, el nacimiento de la ópera",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.7",
@@ -324,7 +324,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.8",
@@ -333,7 +333,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.9",
@@ -342,7 +342,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.10",
@@ -351,7 +351,7 @@ const LESSONS = [
     "summary": "Henry Purcell, Jean-Philippe Rameau, Domenico Scarlatti, Georg Philipp Telemann",
     "summaryText": "Henry Purcell, Jean-Philippe Rameau, Domenico Scarlatti, Georg Philipp Telemann",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.11",
@@ -360,7 +360,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "4.12",
@@ -369,7 +369,7 @@ const LESSONS = [
     "summary": "la muerte de Bach, el cambio de gusto hacia el estilo galante",
     "summaryText": "la muerte de Bach, el cambio de gusto hacia el estilo galante",
     "phase": "Fase 4 — Barroco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.1",
@@ -378,7 +378,7 @@ const LESSONS = [
     "summary": "la Ilustración, el ascenso de la burguesía, el cambio de mecenazgo",
     "summaryText": "la Ilustración, el ascenso de la burguesía, el cambio de mecenazgo",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.2",
@@ -387,7 +387,7 @@ const LESSONS = [
     "summary": "el fortepiano, la orquesta clásica estandarizada",
     "summaryText": "el fortepiano, la orquesta clásica estandarizada",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.3",
@@ -396,7 +396,7 @@ const LESSONS = [
     "summary": "claridad, homofonía, equilibrio formal, cómo suena",
     "summaryText": "claridad, homofonía, equilibrio formal, cómo suena",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.4",
@@ -405,7 +405,7 @@ const LESSONS = [
     "summary": "la forma sonata, la sinfonía, el cuarteto de cuerdas",
     "summaryText": "la forma sonata, la sinfonía, el cuarteto de cuerdas",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.5",
@@ -414,7 +414,7 @@ const LESSONS = [
     "summary": "la Revolución Francesa, las salas de concierto públicas, la edición musical masiva",
     "summaryText": "la Revolución Francesa, las salas de concierto públicas, la edición musical masiva",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.6",
@@ -423,7 +423,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.7",
@@ -432,7 +432,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.8",
@@ -441,7 +441,7 @@ const LESSONS = [
     "summary": "biografía y obra, el puente hacia el Romanticismo",
     "summaryText": "biografía y obra, el puente hacia el Romanticismo",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.9",
@@ -450,7 +450,7 @@ const LESSONS = [
     "summary": "Carl Philipp Emanuel Bach, Muzio Clementi, Antonio Salieri",
     "summaryText": "Carl Philipp Emanuel Bach, Muzio Clementi, Antonio Salieri",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.10",
@@ -459,7 +459,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "5.11",
@@ -468,7 +468,7 @@ const LESSONS = [
     "summary": "el Beethoven tardío, la Revolución Industrial y el cambio de sensibilidad",
     "summaryText": "el Beethoven tardío, la Revolución Industrial y el cambio de sensibilidad",
     "phase": "Fase 5 — Clasicismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.1",
@@ -477,7 +477,7 @@ const LESSONS = [
     "summary": "el individualismo romántico, los nacionalismos emergentes, la industrialización",
     "summaryText": "el individualismo romántico, los nacionalismos emergentes, la industrialización",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.2",
@@ -486,7 +486,7 @@ const LESSONS = [
     "summary": "el piano moderno, la orquesta ampliada, los instrumentos de válvula",
     "summaryText": "el piano moderno, la orquesta ampliada, los instrumentos de válvula",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.3",
@@ -495,7 +495,7 @@ const LESSONS = [
     "summary": "expresividad, música de programa, nacionalismo musical, cómo suena",
     "summaryText": "expresividad, música de programa, nacionalismo musical, cómo suena",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.4",
@@ -504,7 +504,7 @@ const LESSONS = [
     "summary": "los nacionalismos musicales, la consolidación de las casas de ópera, la crítica musical",
     "summaryText": "los nacionalismos musicales, la consolidación de las casas de ópera, la crítica musical",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.5",
@@ -513,7 +513,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.6",
@@ -522,7 +522,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.7",
@@ -531,7 +531,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.8",
@@ -540,7 +540,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.9",
@@ -549,7 +549,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.10",
@@ -558,7 +558,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.11",
@@ -567,7 +567,7 @@ const LESSONS = [
     "summary": "Robert Schumann, Felix Mendelssohn, Antonín Dvořák, Edvard Grieg",
     "summaryText": "Robert Schumann, Felix Mendelssohn, Antonín Dvořák, Edvard Grieg",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.12",
@@ -576,7 +576,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "6.13",
@@ -585,7 +585,7 @@ const LESSONS = [
     "summary": "la crisis de la tonalidad y el impresionismo que abren el siglo XX",
     "summaryText": "la crisis de la tonalidad y el impresionismo que abren el siglo XX",
     "phase": "Fase 6 — Romanticismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.1",
@@ -594,7 +594,7 @@ const LESSONS = [
     "summary": "la crisis de la tonalidad, la Primera Guerra Mundial, el fin de las certezas del XIX",
     "summaryText": "la crisis de la tonalidad, la Primera Guerra Mundial, el fin de las certezas del XIX",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.2",
@@ -603,7 +603,7 @@ const LESSONS = [
     "summary": "la orquesta ampliada, nuevos timbres y técnicas instrumentales",
     "summaryText": "la orquesta ampliada, nuevos timbres y técnicas instrumentales",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.3",
@@ -612,7 +612,7 @@ const LESSONS = [
     "summary": "impresionismo, atonalidad, politonalidad, cómo suena",
     "summaryText": "impresionismo, atonalidad, politonalidad, cómo suena",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.4",
@@ -621,7 +621,7 @@ const LESSONS = [
     "summary": "el dodecafonismo, el neoclasicismo",
     "summaryText": "el dodecafonismo, el neoclasicismo",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.5",
@@ -630,7 +630,7 @@ const LESSONS = [
     "summary": "el estreno de La consagración de la primavera, la Segunda Escuela de Viena",
     "summaryText": "el estreno de La consagración de la primavera, la Segunda Escuela de Viena",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.6",
@@ -639,7 +639,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.7",
@@ -648,7 +648,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.8",
@@ -657,7 +657,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.9",
@@ -666,7 +666,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.10",
@@ -675,7 +675,7 @@ const LESSONS = [
     "summary": "Maurice Ravel, Anton Webern, Alban Berg, Sergei Prokofiev",
     "summaryText": "Maurice Ravel, Anton Webern, Alban Berg, Sergei Prokofiev",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.11",
@@ -684,7 +684,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "7.12",
@@ -693,7 +693,7 @@ const LESSONS = [
     "summary": "la Segunda Guerra Mundial y el quiebre hacia las vanguardias de posguerra",
     "summaryText": "la Segunda Guerra Mundial y el quiebre hacia las vanguardias de posguerra",
     "phase": "Fase 7 — Modernismo",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.1",
@@ -702,7 +702,7 @@ const LESSONS = [
     "summary": "la posguerra, la Guerra Fría, las universidades y los estudios de radio como laboratorio",
     "summaryText": "la posguerra, la Guerra Fría, las universidades y los estudios de radio como laboratorio",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.2",
@@ -711,7 +711,7 @@ const LESSONS = [
     "summary": "síntesis electrónica, cinta magnética, los primeros estudios de música electrónica",
     "summaryText": "síntesis electrónica, cinta magnética, los primeros estudios de música electrónica",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.3",
@@ -720,7 +720,7 @@ const LESSONS = [
     "summary": "serialismo integral, música aleatoria, minimalismo, espectralismo, cómo suena",
     "summaryText": "serialismo integral, música aleatoria, minimalismo, espectralismo, cómo suena",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.4",
@@ -729,7 +729,7 @@ const LESSONS = [
     "summary": "la música concreta, la fundación del IRCAM, el minimalismo estadounidense",
     "summaryText": "la música concreta, la fundación del IRCAM, el minimalismo estadounidense",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.5",
@@ -738,7 +738,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.6",
@@ -747,7 +747,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.7",
@@ -756,7 +756,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.8",
@@ -765,7 +765,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.9",
@@ -774,7 +774,7 @@ const LESSONS = [
     "summary": "Philip Glass, Pierre Boulez, Arvo Pärt",
     "summaryText": "Philip Glass, Pierre Boulez, Arvo Pärt",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.10",
@@ -783,7 +783,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "8.11",
@@ -792,7 +792,7 @@ const LESSONS = [
     "summary": "la música de arte contemporánea y su lugar hoy",
     "summaryText": "la música de arte contemporánea y su lugar hoy",
     "phase": "Fase 8 — Vanguardias de posguerra y postmodernismo clásico",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.1",
@@ -801,7 +801,7 @@ const LESSONS = [
     "summary": "Nueva Orleans, la cultura afroamericana, la Gran Migración",
     "summaryText": "Nueva Orleans, la cultura afroamericana, la Gran Migración",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.2",
@@ -810,7 +810,7 @@ const LESSONS = [
     "summary": "la sección de metales, el piano, el contrabajo, la batería de jazz",
     "summaryText": "la sección de metales, el piano, el contrabajo, la batería de jazz",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.3",
@@ -819,7 +819,7 @@ const LESSONS = [
     "summary": "el blues, el swing, la improvisación, cómo suena",
     "summaryText": "el blues, el swing, la improvisación, cómo suena",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.4",
@@ -828,7 +828,7 @@ const LESSONS = [
     "summary": "la forma blues de 12 compases, los acordes de séptima, el swing rítmico",
     "summaryText": "la forma blues de 12 compases, los acordes de séptima, el swing rítmico",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.5",
@@ -837,7 +837,7 @@ const LESSONS = [
     "summary": "la era del swing, la revolución del bebop, el disco como medio masivo",
     "summaryText": "la era del swing, la revolución del bebop, el disco como medio masivo",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.6",
@@ -846,7 +846,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.7",
@@ -855,7 +855,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.8",
@@ -864,7 +864,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.9",
@@ -873,7 +873,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.10",
@@ -882,7 +882,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.11",
@@ -891,7 +891,7 @@ const LESSONS = [
     "summary": "Ella Fitzgerald, Thelonious Monk, Billie Holiday",
     "summaryText": "Ella Fitzgerald, Thelonious Monk, Billie Holiday",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.12",
@@ -900,7 +900,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "9.13",
@@ -909,7 +909,7 @@ const LESSONS = [
     "summary": "fusión, jazz contemporáneo, su lugar hoy",
     "summaryText": "fusión, jazz contemporáneo, su lugar hoy",
     "phase": "Fase 9 — Jazz",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.1",
@@ -918,7 +918,7 @@ const LESSONS = [
     "summary": "la posguerra, la radio y el disco, la juventud como mercado nuevo",
     "summaryText": "la posguerra, la radio y el disco, la juventud como mercado nuevo",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.2",
@@ -927,7 +927,7 @@ const LESSONS = [
     "summary": "la guitarra eléctrica, la batería de rock, la amplificación",
     "summaryText": "la guitarra eléctrica, la batería de rock, la amplificación",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.3",
@@ -936,7 +936,7 @@ const LESSONS = [
     "summary": "el rock and roll, la British Invasion, el rock clásico, cómo suena",
     "summaryText": "el rock and roll, la British Invasion, el rock clásico, cómo suena",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.4",
@@ -945,7 +945,7 @@ const LESSONS = [
     "summary": "Elvis en la televisión, los Beatles en el Ed Sullivan Show, Woodstock",
     "summaryText": "Elvis en la televisión, los Beatles en el Ed Sullivan Show, Woodstock",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.5",
@@ -954,7 +954,7 @@ const LESSONS = [
     "summary": "biografía y obra, el nacimiento del rock and roll",
     "summaryText": "biografía y obra, el nacimiento del rock and roll",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.6",
@@ -963,7 +963,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.7",
@@ -972,7 +972,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.8",
@@ -981,7 +981,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.9",
@@ -990,7 +990,7 @@ const LESSONS = [
     "summary": "Little Richard, The Who, Jimi Hendrix",
     "summaryText": "Little Richard, The Who, Jimi Hendrix",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.10",
@@ -999,7 +999,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "10.11",
@@ -1008,7 +1008,7 @@ const LESSONS = [
     "summary": "la fragmentación en subgéneros: metal, punk y el resto del árbol del rock",
     "summaryText": "la fragmentación en subgéneros: metal, punk y el resto del árbol del rock",
     "phase": "Fase 10 — Rock y música popular (orígenes)",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.1",
@@ -1017,7 +1017,7 @@ const LESSONS = [
     "summary": "los estudios universitarios, el sintetizador comercial, la computadora personal",
     "summaryText": "los estudios universitarios, el sintetizador comercial, la computadora personal",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.2",
@@ -1026,7 +1026,7 @@ const LESSONS = [
     "summary": "el sintetizador analógico, la caja de ritmos, el sampler, el DAW",
     "summaryText": "el sintetizador analógico, la caja de ritmos, el sampler, el DAW",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.3",
@@ -1035,7 +1035,7 @@ const LESSONS = [
     "summary": "el techno, el house, el ambient, el IDM, cómo suena",
     "summaryText": "el techno, el house, el ambient, el IDM, cómo suena",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.4",
@@ -1044,7 +1044,7 @@ const LESSONS = [
     "summary": "Kraftwerk y el pop electrónico, el techno de Detroit, el nacimiento del DAW",
     "summaryText": "Kraftwerk y el pop electrónico, el techno de Detroit, el nacimiento del DAW",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.5",
@@ -1053,7 +1053,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.6",
@@ -1062,7 +1062,7 @@ const LESSONS = [
     "summary": "biografía y obra, música electrónica y ambient tempranas",
     "summaryText": "biografía y obra, música electrónica y ambient tempranas",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.7",
@@ -1071,7 +1071,7 @@ const LESSONS = [
     "summary": "biografía y obra, el techno de Detroit",
     "summaryText": "biografía y obra, el techno de Detroit",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.8",
@@ -1080,7 +1080,7 @@ const LESSONS = [
     "summary": "Giorgio Moroder, Aphex Twin, Daft Punk",
     "summaryText": "Giorgio Moroder, Aphex Twin, Daft Punk",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.9",
@@ -1089,7 +1089,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "11.10",
@@ -1098,7 +1098,7 @@ const LESSONS = [
     "summary": "el streaming, la producción casera, la electrónica como mainstream",
     "summaryText": "el streaming, la producción casera, la electrónica como mainstream",
     "phase": "Fase 11 — Electrónica y producción digital",
-    "ready": true
+    "ready": false
   },
   {
     "num": "12.1",
@@ -1107,7 +1107,7 @@ const LESSONS = [
     "summary": "Andalucía, la mezcla de culturas gitana, morisca y judía",
     "summaryText": "Andalucía, la mezcla de culturas gitana, morisca y judía",
     "phase": "Fase 12 — Flamenco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "12.2",
@@ -1116,7 +1116,7 @@ const LESSONS = [
     "summary": "la guitarra flamenca, el cajón, las palmas, las castañuelas",
     "summaryText": "la guitarra flamenca, el cajón, las palmas, las castañuelas",
     "phase": "Fase 12 — Flamenco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "12.3",
@@ -1125,7 +1125,7 @@ const LESSONS = [
     "summary": "el cante, los palos flamencos, el compás, cómo suena",
     "summaryText": "el cante, los palos flamencos, el compás, cómo suena",
     "phase": "Fase 12 — Flamenco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "12.4",
@@ -1134,7 +1134,7 @@ const LESSONS = [
     "summary": "la codificación del género en el siglo XIX, los cafés cantantes, el Concurso de Granada de 1922",
     "summaryText": "la codificación del género en el siglo XIX, los cafés cantantes, el Concurso de Granada de 1922",
     "phase": "Fase 12 — Flamenco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "12.5",
@@ -1143,7 +1143,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 12 — Flamenco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "12.6",
@@ -1152,7 +1152,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 12 — Flamenco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "12.7",
@@ -1161,7 +1161,7 @@ const LESSONS = [
     "summary": "La Niña de los Peines, Manolo Caracol",
     "summaryText": "La Niña de los Peines, Manolo Caracol",
     "phase": "Fase 12 — Flamenco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "12.8",
@@ -1170,7 +1170,7 @@ const LESSONS = [
     "summary": "piezas de referencia del género y por qué escucharlas",
     "summaryText": "piezas de referencia del género y por qué escucharlas",
     "phase": "Fase 12 — Flamenco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "12.9",
@@ -1179,7 +1179,7 @@ const LESSONS = [
     "summary": "el nuevo flamenco, la fusión, su lugar hoy",
     "summaryText": "el nuevo flamenco, la fusión, su lugar hoy",
     "phase": "Fase 12 — Flamenco",
-    "ready": true
+    "ready": false
   },
   {
     "num": "13.1",
@@ -1188,7 +1188,7 @@ const LESSONS = [
     "summary": "el Río de la Plata, la inmigración, el arrabal de Buenos Aires y Montevideo",
     "summaryText": "el Río de la Plata, la inmigración, el arrabal de Buenos Aires y Montevideo",
     "phase": "Fase 13 — Tango",
-    "ready": true
+    "ready": false
   },
   {
     "num": "13.2",
@@ -1197,7 +1197,7 @@ const LESSONS = [
     "summary": "el bandoneón, la guitarra, el violín, el piano",
     "summaryText": "el bandoneón, la guitarra, el violín, el piano",
     "phase": "Fase 13 — Tango",
-    "ready": true
+    "ready": false
   },
   {
     "num": "13.3",
@@ -1206,7 +1206,7 @@ const LESSONS = [
     "summary": "la estructura del tango, el compás, la letra, cómo suena",
     "summaryText": "la estructura del tango, el compás, la letra, cómo suena",
     "phase": "Fase 13 — Tango",
-    "ready": true
+    "ready": false
   },
   {
     "num": "13.4",
@@ -1215,7 +1215,7 @@ const LESSONS = [
     "summary": "la guardia vieja, la guardia nueva, la edad de oro del tango",
     "summaryText": "la guardia vieja, la guardia nueva, la edad de oro del tango",
     "phase": "Fase 13 — Tango",
-    "ready": true
+    "ready": false
   },
   {
     "num": "13.5",
@@ -1224,7 +1224,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 13 — Tango",
-    "ready": true
+    "ready": false
   },
   {
     "num": "13.6",
@@ -1233,7 +1233,7 @@ const LESSONS = [
     "summary": "biografía y obra, el tango nuevo",
     "summaryText": "biografía y obra, el tango nuevo",
     "phase": "Fase 13 — Tango",
-    "ready": true
+    "ready": false
   },
   {
     "num": "13.7",
@@ -1242,7 +1242,7 @@ const LESSONS = [
     "summary": "Aníbal Troilo, Julio de Caro",
     "summaryText": "Aníbal Troilo, Julio de Caro",
     "phase": "Fase 13 — Tango",
-    "ready": true
+    "ready": false
   },
   {
     "num": "13.8",
@@ -1251,7 +1251,7 @@ const LESSONS = [
     "summary": "piezas de referencia del género y por qué escucharlas",
     "summaryText": "piezas de referencia del género y por qué escucharlas",
     "phase": "Fase 13 — Tango",
-    "ready": true
+    "ready": false
   },
   {
     "num": "13.9",
@@ -1260,7 +1260,7 @@ const LESSONS = [
     "summary": "el tango nuevo, su lugar hoy",
     "summaryText": "el tango nuevo, su lugar hoy",
     "phase": "Fase 13 — Tango",
-    "ready": true
+    "ready": false
   },
   {
     "num": "14.1",
@@ -1269,7 +1269,7 @@ const LESSONS = [
     "summary": "Lisboa, la saudade, los barrios marineros",
     "summaryText": "Lisboa, la saudade, los barrios marineros",
     "phase": "Fase 14 — Fado",
-    "ready": true
+    "ready": false
   },
   {
     "num": "14.2",
@@ -1278,7 +1278,7 @@ const LESSONS = [
     "summary": "la guitarra portuguesa, la viola de fado",
     "summaryText": "la guitarra portuguesa, la viola de fado",
     "phase": "Fase 14 — Fado",
-    "ready": true
+    "ready": false
   },
   {
     "num": "14.3",
@@ -1287,7 +1287,7 @@ const LESSONS = [
     "summary": "la estructura del fado, la voz, los temas, cómo suena",
     "summaryText": "la estructura del fado, la voz, los temas, cómo suena",
     "phase": "Fase 14 — Fado",
-    "ready": true
+    "ready": false
   },
   {
     "num": "14.4",
@@ -1296,7 +1296,7 @@ const LESSONS = [
     "summary": "las casas de fado, la censura bajo la dictadura de Salazar, la declaración de la UNESCO",
     "summaryText": "las casas de fado, la censura bajo la dictadura de Salazar, la declaración de la UNESCO",
     "phase": "Fase 14 — Fado",
-    "ready": true
+    "ready": false
   },
   {
     "num": "14.5",
@@ -1305,7 +1305,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 14 — Fado",
-    "ready": true
+    "ready": false
   },
   {
     "num": "14.6",
@@ -1314,7 +1314,7 @@ const LESSONS = [
     "summary": "Carlos do Carmo, Mariza",
     "summaryText": "Carlos do Carmo, Mariza",
     "phase": "Fase 14 — Fado",
-    "ready": true
+    "ready": false
   },
   {
     "num": "14.7",
@@ -1323,7 +1323,7 @@ const LESSONS = [
     "summary": "piezas de referencia del género y por qué escucharlas",
     "summaryText": "piezas de referencia del género y por qué escucharlas",
     "phase": "Fase 14 — Fado",
-    "ready": true
+    "ready": false
   },
   {
     "num": "14.8",
@@ -1332,7 +1332,7 @@ const LESSONS = [
     "summary": "el fado contemporáneo, su lugar hoy",
     "summaryText": "el fado contemporáneo, su lugar hoy",
     "phase": "Fase 14 — Fado",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.1",
@@ -1341,7 +1341,7 @@ const LESSONS = [
     "summary": "la desindustrialización de Birmingham, la herencia del rock pesado",
     "summaryText": "la desindustrialización de Birmingham, la herencia del rock pesado",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.2",
@@ -1350,7 +1350,7 @@ const LESSONS = [
     "summary": "la distorsión, los amplificadores de alta ganancia, el doble pedal",
     "summaryText": "la distorsión, los amplificadores de alta ganancia, el doble pedal",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.3",
@@ -1359,7 +1359,7 @@ const LESSONS = [
     "summary": "los riffs, los power chords, la vocalidad del metal, cómo suena",
     "summaryText": "los riffs, los power chords, la vocalidad del metal, cómo suena",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.4",
@@ -1368,7 +1368,7 @@ const LESSONS = [
     "summary": "el debut de Black Sabbath, la NWOBHM, la llegada de MTV",
     "summaryText": "el debut de Black Sabbath, la NWOBHM, la llegada de MTV",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.5",
@@ -1377,7 +1377,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.6",
@@ -1386,7 +1386,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.7",
@@ -1395,7 +1395,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.8",
@@ -1404,7 +1404,7 @@ const LESSONS = [
     "summary": "Judas Priest, Megadeth, Slayer",
     "summaryText": "Judas Priest, Megadeth, Slayer",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.9",
@@ -1413,7 +1413,7 @@ const LESSONS = [
     "summary": "piezas de referencia del género y por qué escucharlas",
     "summaryText": "piezas de referencia del género y por qué escucharlas",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "15.10",
@@ -1422,7 +1422,7 @@ const LESSONS = [
     "summary": "los subgéneros: death, black, doom, y su lugar hoy",
     "summaryText": "los subgéneros: death, black, doom, y su lugar hoy",
     "phase": "Fase 15 — Heavy metal",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.1",
@@ -1431,7 +1431,7 @@ const LESSONS = [
     "summary": "la crisis económica de los 70, el hastío con el rock progresivo",
     "summaryText": "la crisis económica de los 70, el hastío con el rock progresivo",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.2",
@@ -1440,7 +1440,7 @@ const LESSONS = [
     "summary": "la simplicidad instrumental, el DIY como principio",
     "summaryText": "la simplicidad instrumental, el DIY como principio",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.3",
@@ -1449,7 +1449,7 @@ const LESSONS = [
     "summary": "la velocidad, la crudeza, las letras, cómo suena",
     "summaryText": "la velocidad, la crudeza, las letras, cómo suena",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.4",
@@ -1458,7 +1458,7 @@ const LESSONS = [
     "summary": "el CBGB, los Sex Pistols en el Reino Unido, el nacimiento del hardcore en EEUU",
     "summaryText": "el CBGB, los Sex Pistols en el Reino Unido, el nacimiento del hardcore en EEUU",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.5",
@@ -1467,7 +1467,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.6",
@@ -1476,7 +1476,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.7",
@@ -1485,7 +1485,7 @@ const LESSONS = [
     "summary": "biografía y obra, el hardcore estadounidense",
     "summaryText": "biografía y obra, el hardcore estadounidense",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.8",
@@ -1494,7 +1494,7 @@ const LESSONS = [
     "summary": "The Clash, Dead Kennedys",
     "summaryText": "The Clash, Dead Kennedys",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.9",
@@ -1503,7 +1503,7 @@ const LESSONS = [
     "summary": "piezas de referencia del género y por qué escucharlas",
     "summaryText": "piezas de referencia del género y por qué escucharlas",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   },
   {
     "num": "16.10",
@@ -1512,6 +1512,6 @@ const LESSONS = [
     "summary": "el post-punk, la influencia del punk en géneros posteriores",
     "summaryText": "el post-punk, la influencia del punk en géneros posteriores",
     "phase": "Fase 16 — Punk y hardcore",
-    "ready": true
+    "ready": false
   }
 ];

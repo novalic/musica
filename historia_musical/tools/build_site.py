@@ -115,11 +115,14 @@ def parse_roadmap() -> tuple[list[str], list[dict], str]:
             continue
         m = re.match(rf"^\|\s*{NUM_RE}\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*$", line)
         if m and phase:
-            num, title, summary, _status = m.groups()
+            num, title, summary, status = m.groups()
             if phase not in phases:
                 phases.append(phase)
             matches = lesson_glob(num)
             lesson_dir = matches[0].parent.name if matches else None
+            # "ready" = tiene carpeta Y el ROADMAP la marca done (evita contar
+            # como listos los placeholders LESSON.md creados solo para que
+            # los links del README no rompan).
             lessons.append({
                 "num": num,
                 "dir": lesson_dir,
@@ -127,7 +130,7 @@ def parse_roadmap() -> tuple[list[str], list[dict], str]:
                 "summary": inline_md(summary),
                 "summaryText": plain(summary),
                 "phase": phase,
-                "ready": lesson_dir is not None,
+                "ready": lesson_dir is not None and "✅" in status,
             })
     final_html = ""
     if final_lines:
