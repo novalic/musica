@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MUSICA — PAGINA PRINCIPAL</title>
+<meta name="description" content="Cursos de historia y teoría musical.">
+<link rel="stylesheet" href="assets/css/style.css">
+<script>
+  /* Aplica el tema guardado antes de pintar (misma clave que usa el sitio
+     cursos: musica-theme), para evitar flash del tema por defecto. */
+  (function () {
+    try {
+      var t = localStorage.getItem("musica-theme");
+      if (t) document.documentElement.setAttribute("data-theme", t);
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body>
+<!-- GENERADO por tools/build_index.py desde COURSES.md: no editar a mano. -->
+<main class="page">
+  <div class="hero">
+    <div class="hero-top">
+      <h1>MUSICA — PAGINA PRINCIPAL</h1>
+      <div class="theme-select-wrap">
+        <select class="theme-select" id="theme-select" title="Cambiar tema">
+          <option value="dark">Oscuro (Dracula)</option>
+          <option value="light">Claro</option>
+          <option value="dracula">Dracula</option>
+          <option value="synthwave">Synthwave</option>
+          <option value="vaporwave">Vaporwave</option>
+          <option value="nineties">90s</option>
+          <option value="nightcity">Night City</option>
+          <option value="acid">Acid</option>
+        </select>
+      </div>
+    </div>
+    <p class="lead">Cursos de historia y teoría musical.</p>
+    <p class="count">1 cursos</p>
+  </div>
+
+    <section class="category">
+      <h2>Historia de la música</h2>
+      <div class="card-grid">
+        <a class="card" href="historia_musical/index.html" data-course="historia_musical" data-ready="0" data-total="168">
+          <div class="card-top">
+            <h3>historia_musical</h3>
+            <span class="badge">0/16</span>
+          </div>
+          <p>Historia de la música de cero a experto: desde la música antigua hasta los géneros populares de hoy, incluyendo tradiciones regionales como el flamenco, el tango y el fado.</p>
+        </a>
+      </div>
+    </section>
+</main>
+
+<script>
+  /* Selector de tema: misma clave musica-theme que usan los cursos,
+     para que la eleccion se mantenga al navegar entre el catalogo y
+     cualquier curso. */
+  (function () {
+    var THEME_KEY = "musica-theme";
+    var select = document.getElementById("theme-select");
+    if (!select) return;
+    var stored = null;
+    try { stored = localStorage.getItem(THEME_KEY); } catch (e) {}
+    select.value = stored || document.documentElement.getAttribute("data-theme") || "dark";
+    select.addEventListener("change", function () {
+      document.documentElement.setAttribute("data-theme", select.value);
+      try { localStorage.setItem(THEME_KEY, select.value); } catch (e) {}
+    });
+  })();
+
+  /* Reemplaza el badge "listas/total" de cada card por "finalizadas/total",
+     leyendo los flags de "leccion finalizada" que cada curso guarda en
+     localStorage (ver assets/js/site.js de cada curso). El denominador es
+     SIEMPRE el total de lecciones planificadas del curso (data-total), no
+     cuantas tienen contenido generado (data-ready): lo que importa aca es
+     cuanto le falta al usuario para terminar el curso completo. En file://
+     todas las paginas del repo comparten el mismo localStorage, namespaced
+     por curso ("<carpeta>-done-"). */
+  (function () {
+    function donePrefixFor(slug) {
+      return slug + "-done-";
+    }
+    document.querySelectorAll(".card[data-course]").forEach(function (card) {
+      const slug = card.dataset.course;
+      const total = parseInt(card.dataset.total, 10);
+      if (isNaN(total)) return;
+      const prefix = donePrefixFor(slug);
+      let done = 0;
+      try {
+        for (let i = 0; i < localStorage.length; i++) {
+          const k = localStorage.key(i);
+          if (k && k.indexOf(prefix) === 0 && localStorage.getItem(k) === "1") done++;
+        }
+      } catch (e) {}
+      const badge = card.querySelector(".badge");
+      if (badge) {
+        badge.textContent = done + "/" + total;
+        badge.classList.toggle("badge--done", done > 0);
+      }
+    });
+  })();
+</script>
+</body>
+</html>

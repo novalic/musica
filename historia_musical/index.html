@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>historia_musical — historia de la música de cero a experto</title>
+<meta name="description" content="Historia de la música contada en etapas: desde la música antigua hasta los géneros populares de hoy, pasando por tradiciones regionales con identidad propia (flamenco, tango, fado). Cada etapa explica cómo y por qué empieza, sus instrumentos, cómo suena su música, sus hitos, sus figuras principales y cómo y por qué termina.">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<!-- GENERADO por tools/build_site.py desde README.md y ROADMAP.md: no editar a mano. -->
+<script>const BASE_PREFIX = "";</script>
+<div class="layout">
+  <nav id="sidebar" class="sidebar"></nav>
+  <button id="sidebar-toggle" class="sidebar-toggle" aria-label="Abrir menu">&#9776;</button>
+
+  <main class="content" style="max-width: 1100px; padding: 0;">
+    <div class="hero">
+      <a href="../index.html" class="back-index">&larr; Todos los cursos</a>
+      <h1>historia_musical — historia de la música de cero a experto</h1>
+      <p class="lead">Historia de la música contada en etapas: desde la música antigua hasta los géneros populares de hoy, pasando por tradiciones regionales con identidad propia (flamenco, tango, fado). Cada etapa explica cómo y por qué empieza, sus instrumentos, cómo suena su música, sus hitos, sus figuras principales y cómo y por qué termina.</p>
+      <input type="search" class="hero-search" id="hero-search" placeholder="Buscar un tema...">
+      <div class="hero-links">
+        <a href="lessons/p1_l01_contexto_inicio/index.html">Empezar por la lección 1.1 &rarr;</a>
+        <span style="color:var(--text-faint)">168 de 168 lecciones listas</span>
+        <span id="done-count" style="color:var(--good)"></span>
+      </div>
+    </div>
+
+    <div class="groups" id="groups"></div>
+    <div class="groups"></div>
+  </main>
+</div>
+
+<script src="assets/js/lessons-data.js"></script>
+<script src="assets/js/site.js"></script>
+<script>
+  (function () {
+    const groups = document.getElementById("groups");
+    function render(filterText) {
+      groups.innerHTML = "";
+      const q = (filterText || "").trim().toLowerCase();
+      let any = false;
+      PHASE_ORDER.forEach(function (phase) {
+        let inPhase = LESSONS.filter(function (l) { return l.phase === phase; });
+        if (q) inPhase = inPhase.filter(function (l) {
+          return (l.num + " " + l.title + " " + l.summaryText).toLowerCase().indexOf(q) !== -1;
+        });
+        if (!inPhase.length) return;
+        any = true;
+        const title = document.createElement("div");
+        title.className = "group-title";
+        title.textContent = phase;
+        groups.appendChild(title);
+        const grid = document.createElement("div");
+        grid.className = "card-grid";
+        inPhase.forEach(function (l) {
+          const el = document.createElement(l.ready ? "a" : "div");
+          el.className = "card" + (l.ready ? "" : " pending");
+          if (l.ready) el.href = "lessons/" + l.dir + "/index.html";
+          const t = document.createElement("h3"); t.textContent = l.title;
+          el.innerHTML = '<span class="card-num">Lección ' + l.num + '</span>' +
+            (l.ready
+              ? (window.sdIsDone && window.sdIsDone(l.dir) ? '<span class="tag-done">&check; finalizada</span>' : "")
+              : '<span class="tag-pending">pendiente</span>');
+          el.appendChild(t);
+          const p = document.createElement("p"); p.innerHTML = l.summary; el.appendChild(p);
+          grid.appendChild(el);
+        });
+        groups.appendChild(grid);
+      });
+      if (!any) {
+        const empty = document.createElement("p");
+        empty.style.color = "var(--text-faint)";
+        empty.textContent = "Sin resultados para \"" + filterText + "\".";
+        groups.appendChild(empty);
+      }
+    }
+    render("");
+    document.getElementById("hero-search").addEventListener("input", function (e) { render(e.target.value); });
+  })();
+</script>
+</body>
+</html>
