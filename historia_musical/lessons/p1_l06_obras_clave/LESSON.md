@@ -1,5 +1,7 @@
 # 1.6 — Obras clave y guía de escucha
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** tener una lista concreta de qué buscar y escuchar para anclar todo lo visto en la
 fase a sonido real (o a la reconstrucción más cercana posible al sonido real).
 
@@ -21,6 +23,8 @@ saltos: es un buen ejemplo de cómo sonaba una melodía vocal con acompañamient
 Mesopotamia, aunque recordá que la interpretación exacta sigue debatida.
 
 ## 2. Epitafio de Seikilos (grabado en una estela funeraria, Turquía, siglo I o II d.C.)
+
+![Estela del Epitafio de Seikilos](img/p1_l06_epitafio_seikilos.webp)
 
 Buscá: "Seikilos Epitaph". A diferencia del Himno a Nikkal, esta es una pieza griega (no hurrita) y
 su notación es mucho más clara y menos discutida, porque usa el sistema de notación alfabética

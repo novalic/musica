@@ -1,5 +1,7 @@
 # 1.4 — Hitos importantes
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** repasar los hitos concretos (objetos, descubrimientos, eventos) que marcan la
 música antigua, con el contexto de cada uno.
 
@@ -14,6 +16,8 @@ crear música con intención —no ruido al azar, sino un objeto diseñado para 
 específicas— es tan antigua como el arte rupestre y mucho más antigua que la agricultura.
 
 ## El Arpa de Ur (~2500 a.C.)
+
+![Excavación arqueológica de Ur con instrumentos](img/p1_l04_excavacion_ur.webp)
 
 Hallada por el arqueólogo Leonard Woolley en las excavaciones del Cementerio Real de Ur
 (Mesopotamia, actual Irak) entre 1922 y 1934, junto a otras liras y arpas en tumbas reales. Una de
@@ -33,6 +37,8 @@ musical no nació en Grecia, Grecia la sistematizó y la llevó a otro nivel, pe
 describir con palabras precisas cómo afinar un instrumento ya estaba en Mesopotamia.
 
 ## El Himno a Nikkal (tablilla h.6 de Ugarit, ~1400 a.C.)
+
+![Tablilla cuneiforme del Himno a Nikkal](img/p1_l04_tablilla_nikkal.webp)
 
 Encontrada en las excavaciones de Ras Shamra (antigua Ugarit, en la costa de Siria) en los años
 1950, es una tablilla cuneiforme en lengua hurrita que combina una letra religiosa dedicada a la

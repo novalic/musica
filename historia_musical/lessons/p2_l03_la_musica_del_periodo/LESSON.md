@@ -1,5 +1,7 @@
 # 2.3 — La música del período
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** entender cómo suena y cómo está construida la música medieval —monofonía, canto
 gregoriano, modos eclesiásticos— con explicaciones pensadas para quien no sabe de música.
 
@@ -22,6 +24,8 @@ en el movimiento de una sola línea melódica, parecida en espíritu a escuchar 
 recitando un poema con una inflexión musical, sin ningún acompañamiento.
 
 ## El canto gregoriano
+
+![Manuscrito de canto gregoriano](img/p2_l03_manuscrito_gregoriano.webp)
 
 Es el repertorio de cantos monofónicos en latín usados en la liturgia católica, consolidado
 aproximadamente entre los siglos VI y IX. El nombre viene del papa Gregorio I ("Gregorio Magno",

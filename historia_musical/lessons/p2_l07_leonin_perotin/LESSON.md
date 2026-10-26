@@ -1,5 +1,7 @@
 # 2.7 — Léonin y Pérotin
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** conocer a las dos figuras centrales de la escuela de Notre Dame y entender por qué
 su trabajo marca el nacimiento de la polifonía como arte compositivo deliberado.
 
@@ -21,6 +23,8 @@ reconocido y comentado explícitamente por un contemporáneo, aunque no tengamos
 detalladas de sus vidas personales.
 
 ## La obra de Léonin: el "Magnus Liber Organi"
+
+![Página manuscrita del Magnus Liber Organi](img/p2_l07_manuscrito_notre_dame.webp)
 
 A Léonin se le atribuye la compilación (y probablemente buena parte de la composición) del
 "Magnus Liber Organi" ("El Gran Libro de Organum"), una colección sistemática de piezas de organum

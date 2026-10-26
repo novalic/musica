@@ -1,9 +1,13 @@
 # 2.4 — Forma y notación
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** entender cómo evolucionó la notación musical en la Edad Media y qué es el organum,
 el primer paso hacia la polifonía, sin necesidad de leer música.
 
 ## Los neumas: la primera notación europea
+
+![Neumas medievales sin pentagrama](img/p2_l04_neumas_antiguos.webp)
 
 Antes del pentagrama de Guido d'Arezzo (lección 2.3), la notación musical medieval usaba signos
 llamados "neumas": pequeños trazos y ganchos escritos arriba de las palabras del texto latino, que
@@ -19,6 +23,8 @@ servían como recordatorio visual de los contornos melódicos, no como una instr
 por nota.
 
 ## El salto a la notación precisa
+
+![Guido d'Arezzo y su sistema de notación](img/p2_l04_guido_arezzo.webp)
 
 El sistema de líneas de Guido d'Arezzo resuelve ese problema: al fijar cada línea y cada espacio a
 una altura exacta, convierte los neumas (que siguen usándose como forma de escritura, con su forma

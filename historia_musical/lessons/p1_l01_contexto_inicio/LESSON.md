@@ -1,5 +1,7 @@
 # 1.1 — Contexto de inicio
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** entender por qué la música aparece junto con las primeras civilizaciones y qué rol
 social y religioso tenía antes de que existiera siquiera la idea de "compositor".
 
@@ -37,6 +39,8 @@ porque el sistema de notación cuneiforme todavía no se interpreta con un cien 
 consenso). La vas a encontrar en la guía de escucha de esta fase.
 
 ## Egipto: música para la vida y para la eternidad
+
+![Mural egipcio con músicos y arpista](img/p1_l01_musicos_egipto.webp)
 
 En Egipto la música acompañaba el trabajo agrícola, las fiestas religiosas, los banquetes de la
 nobleza y también los funerales: hay pinturas murales en tumbas (por ejemplo en Saqqara, alrededor

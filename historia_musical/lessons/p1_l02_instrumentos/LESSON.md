@@ -1,5 +1,7 @@
 # 1.2 — Instrumentos de la antigüedad
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** conocer los instrumentos principales del mundo antiguo, cómo estaban hechos y qué
 estética sonora tenían, explicado para quien nunca tocó un instrumento.
 
@@ -18,6 +20,8 @@ para todo el curso:
 
 ## La lira
 
+![Lira antigua de cuerdas](img/p1_l02_lira.webp)
+
 La lira es el instrumento más representativo de Mesopotamia y luego de Grecia. Imaginate una caja
 de resonancia de madera (a veces con forma de animal, como la famosa Lira de Toro de Ur) de la que
 salen dos brazos curvos unidos por una barra transversal; entre esa barra y la caja se tensan entre
@@ -32,6 +36,8 @@ elegir qué cuerdas pulsar y en qué orden.
 
 ## El arpa
 
+![Arpa/lira de Ur con cabeza de toro dorada](img/p1_l02_arpa_ur.webp)
+
 Parecida en concepto a la lira pero sin la barra transversal: las cuerdas van directo de un marco
 triangular o en forma de arco a la caja de resonancia, con largos distintos para cada cuerda (las
 cuerdas más largas dan notas más graves). El Arpa de Ur, hallada en una tumba real de Ur
@@ -44,6 +50,8 @@ tiempo. Es el antepasado directo del arpa de orquesta que vas a ver en el Romant
 
 ## La kithara griega
 
+![Kithara griega representada en cerámica](img/p1_l02_kithara.webp)
+
 Es una lira más grande y más pesada, con una caja de resonancia de madera maciza (no una caparazón
 de tortuga como las liras más simples, que también existían en Grecia bajo el nombre de forminge).
 La tocaban los profesionales, los llamados "citaristas", de pie, sosteniéndola contra el cuerpo con
@@ -54,6 +62,8 @@ una correa. Era el instrumento de la poesía épica cantada y de los concursos m
 era más grande y más rígida.
 
 ## El aulos
+
+![Aulos griego, flauta doble de lengüeta](img/p1_l02_aulos.webp)
 
 Es el instrumento de viento más importante de Grecia, y probablemente el más mal entendido por
 quien no sabe de música: se suele traducir como "flauta doble", pero no es una flauta. El aulos
@@ -70,6 +80,8 @@ instrumento como metáfora de una idea filosófica.
 
 ## La buccina y el cornu romanos
 
+![Buccina romana, trompa militar](img/p1_l02_buccina.webp)
+
 Roma, más que crear instrumentos propios, adoptó y militarizó los instrumentos griegos y
 etruscos. La buccina y el cornu eran grandes trompas de metal enrolladas, usadas en el ejército
 romano para dar señales a la distancia (marchar, atacar, retirarse) y en ceremonias públicas.
@@ -80,6 +92,8 @@ pistones). No era un instrumento "melódico" en el sentido moderno, sino una se�
 antepasado lejanísimo de la trompeta militar.
 
 ## El sistro egipcio
+
+![Sistro egipcio](img/p1_l02_sistro.webp)
 
 Un idiófono de percusión en forma de raqueta con un marco metálico por el que pasan unas varillas
 con discos sueltos, que suenan al sacudirlo, parecido a una pandereta pero sin parche. Se usaba casi

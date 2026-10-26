@@ -1,5 +1,7 @@
 # 1.7 — Fin del período
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** entender cómo y por qué termina la música antigua y qué cambios históricos abren la
 puerta a la Edad Media.
 
@@ -12,6 +14,8 @@ hace música en Europa y el Mediterráneo, y que hacen que la música de la Anti
 a algo distinto.
 
 ## La crisis y caída del Imperio Romano de Occidente
+
+![Ruinas del Foro Romano](img/p1_l07_ruinas_foro_romano.webp)
 
 Entre los siglos III y V d.C., el Imperio Romano de Occidente entra en una crisis económica,
 política y militar profunda: invasiones de pueblos germánicos (visigodos, vándalos, ostrogodos),

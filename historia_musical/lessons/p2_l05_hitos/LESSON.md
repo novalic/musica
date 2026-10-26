@@ -1,9 +1,13 @@
 # 2.5 — Hitos importantes
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** repasar los eventos y desarrollos concretos que marcan el período medieval, con el
 contexto de cada uno.
 
 ## La estandarización carolingia del canto (hacia el año 800)
+
+![Coronación de Carlomagno](img/p2_l05_carlomagno.webp)
 
 Carlomagno, coronado emperador en el año 800, impulsa por motivos políticos y religiosos (unificar
 su imperio bajo una sola práctica litúrgica) la adopción del canto romano en todo su territorio,
@@ -23,6 +27,8 @@ depende de que varios cantantes puedan leer, de forma independiente y precisa, e
 nota les corresponde.
 
 ## El surgimiento de la escuela de Notre Dame (siglo XII-XIII)
+
+![Catedral de Notre Dame de París](img/p2_l05_notre_dame.webp)
 
 En la catedral de Notre Dame de París, entre finales del siglo XII y principios del XIII, un grupo
 de compositores encabezado por Léonin y luego por Pérotin (lección 2.7) desarrolla el organum

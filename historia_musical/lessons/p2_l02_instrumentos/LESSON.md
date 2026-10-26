@@ -1,9 +1,13 @@
 # 2.2 — Instrumentos medievales
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** conocer los instrumentos principales de la Edad Media, cómo funcionan físicamente y
 qué estética sonora tienen, explicado para quien no sabe de música.
 
 ## El órgano, el gran instrumento institucional
+
+![Órgano de tubos medieval](img/p2_l02_organo_tubos.webp)
 
 El órgano de tubos (aire que pasa por tubos de distinto largo, cada uno afinado a una nota, con
 teclas que abren el paso del aire) es el instrumento medieval más importante desde el punto de
@@ -21,6 +25,8 @@ el espacio enorme y resonante de una catedral de piedra.
 
 ## La vihuela de rueda (zanfona)
 
+![Vihuela de rueda (zanfona) medieval](img/p2_l02_vihuela_rueda.webp)
+
 Un instrumento de cuerda poco intuitivo para quien nunca lo vio: en vez de pulsarse o frotarse con
 un arco, las cuerdas se hacen vibrar con una rueda de madera que gira constantemente, accionada por
 una manivela que el músico da vuelta con una mano, mientras con la otra mano aprieta teclas que
@@ -36,6 +42,8 @@ intervalos.
 
 ## El laúd
 
+![Laúd medieval](img/p2_l02_laud_medieval.webp)
+
 De origen árabe (el oud), llegó a Europa a través de la presencia musulmana en la península
 ibérica a partir del siglo VIII. Tiene una caja de resonancia en forma de pera cortada a la mitad,
 un mástil corto con trastes (en versiones posteriores) y cuerdas dobles que se pulsan con los
@@ -46,6 +54,8 @@ acústica moderna pero más "redondo" y menos brillante en los agudos. Fue el in
 la música cortesana y de los trovadores para acompañar canciones de amor.
 
 ## La flauta dulce y el caramillo
+
+![Flauta dulce medieval](img/p2_l02_flauta_dulce.webp)
 
 Instrumentos de viento sin lengüeta: el aire se sopla contra un filo biselado dentro de la
 boquilla, y la melodía se hace tapando y destapando agujeros con los dedos. El caramillo (o
@@ -58,6 +68,8 @@ educación musical escolar.
 
 ## El salterio
 
+![Salterio medieval](img/p2_l02_salterio.webp)
+
 Una caja de resonancia plana y trapezoidal con muchas cuerdas tensadas sobre ella, que se pulsan
 con los dedos o con pequeños martillos (como un antepasado muy lejano del piano, aunque sin
 mecanismo de teclas: cada cuerda se golpea o se pulsa directamente). Era común en ambientes
@@ -67,6 +79,8 @@ monásticos y cortesanos.
 mucha riqueza armónica porque las cuerdas suenan por simpatía entre ellas.
 
 ## Las campanas y el carillón
+
+![Campanas medievales](img/p2_l02_campanas.webp)
 
 Las campanas de iglesia, además de marcar las horas y convocar a la misa, se usaron desde el
 siglo IX como instrumento musical organizado: hay registros de conjuntos de varias campanas

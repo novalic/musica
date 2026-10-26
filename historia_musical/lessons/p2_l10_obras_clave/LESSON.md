@@ -1,5 +1,7 @@
 # 2.10 — Obras clave y guía de escucha
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** tener una lista concreta de piezas para escuchar y anclar todo lo visto en esta fase
 a sonido real, en este caso grabaciones de buena calidad (no solo reconstrucciones hipotéticas como
 en la Fase 1).
@@ -49,6 +51,8 @@ monofónica con acompañamiento instrumental, suena mucho más cercana a lo que 
 "una canción" que el canto gregoriano litúrgico.
 
 ## 6. "Ma fin est mon commencement" de Guillaume de Machaut
+
+![Manuscrito del rondó palíndromo de Machaut](img/p2_l10_manuscrito_rondeau.webp)
 
 Buscá esta pieza en particular, aparte de la Messe. Escuchala prestando atención (si podés leer un
 poco sobre su estructura mientras escuchás) al truco del palíndromo musical descrito en la lección

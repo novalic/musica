@@ -1,5 +1,7 @@
 # 2.9 — Figuras menores
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** conocer a los trovadores y troveros, la gran tradición musical profana medieval en
 paralelo a la música religiosa, con una reseña breve de sus figuras principales.
 
@@ -24,6 +26,8 @@ del siglo XII empieza a anotarse con cierta regularidad en manuscritos llamados 
 
 ## Guillermo de Aquitania (1071-1126)
 
+![Guillermo de Aquitania](img/p2_l09_guillermo_aquitania.webp)
+
 Duque de Aquitania y uno de los nobles más poderosos de Francia en su época (su nieta fue la
 célebre Leonor de Aquitania, reina de Francia y luego de Inglaterra), es considerado el primer
 trovador conocido por nombre. De su obra sobreviven solo once poemas (sin notación musical
@@ -33,6 +37,8 @@ desde su figura fundacional, no era un género de un solo registro emocional.
 
 ## Bernart de Ventadorn (activo h. 1147-1170)
 
+![Bernart de Ventadorn en un cancionero medieval](img/p2_l09_bernart_ventadorn.webp)
+
 De origen humilde (algunas fuentes medievales, probablemente legendarias, dicen que era hijo de un
 panadero o de un sirviente del castillo de Ventadorn), es considerado el trovador más influyente
 desde el punto de vista poético y musical de su generación, con 45 poemas conservados (18 de ellos
@@ -41,6 +47,8 @@ es una de las piezas más estudiadas del repertorio trovadoresco, con una melod�
 acompaña una reflexión sobre el amor no correspondido.
 
 ## Adam de la Halle (h. 1245-1288)
+
+![Adam de la Halle en un manuscrito](img/p2_l09_adam_de_la_halle.webp)
 
 Trovero del norte de Francia (de Arras), es una figura de transición importante porque, además de
 canciones monofónicas en la tradición trovadoresca clásica, compuso también una de las primeras

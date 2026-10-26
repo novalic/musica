@@ -1,5 +1,7 @@
 # 2.11 — Fin del período
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** entender cómo y por qué termina la música medieval y qué cambios abren paso al
 Renacimiento.
 
@@ -11,6 +13,8 @@ que se va gestando desde adentro. No hay un solo evento que cierre la puerta: ha
 se extiende, a los fines de este curso, entre mediados del siglo XIV y mediados del XV.
 
 ## La peste negra como punto de quiebre (1347-1351)
+
+![Ilustración medieval de la peste negra](img/p2_l11_peste_negra.webp)
 
 Ya vimos en la lección 2.5 el impacto devastador de la peste negra sobre la vida musical
 institucional (monasterios diezmados, interrupción de tradiciones de canto). Pero su impacto va
@@ -49,6 +53,8 @@ Renacimiento. Esto marca un cambio estructural respecto de la Fase 2, donde la I
 diferencia, la institución musical dominante.
 
 ## La caída de Constantinopla (1453) y la llegada de la imprenta (1450s)
+
+![Caída de Constantinopla en 1453](img/p2_l11_caida_constantinopla.webp)
 
 Dos eventos casi simultáneos, a mediados del siglo XV, suelen usarse convencionalmente para marcar
 el final simbólico de la Edad Media en la historiografía general (no solo musical): la caída de

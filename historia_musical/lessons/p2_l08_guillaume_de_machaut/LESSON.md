@@ -1,10 +1,14 @@
 # 2.8 — Guillaume de Machaut
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** conocer la vida y la obra de Guillaume de Machaut, la figura central del Ars Nova y
 el primer compositor europeo del que tenemos una biografía detallada y un archivo de obra casi
 completo supervisado por él mismo.
 
 ## Vida
+
+![Retrato de Guillaume de Machaut en manuscrito](img/p2_l08_machaut_retrato.webp)
 
 Guillaume de Machaut nació alrededor de 1300 en la región de Champaña, en el noreste de Francia
 (probablemente en la ciudad de Machault, de donde toma su apellido), y murió en 1377 en la ciudad

@@ -1,5 +1,7 @@
 # 1.3 — La música de Grecia y Roma
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** entender cómo sonaba y cómo se pensaba la música en Grecia y Roma, con una
 explicación de los modos griegos que no requiere saber leer una partitura.
 
@@ -49,6 +51,8 @@ Es una curiosidad histórica: usamos nombres griegos para escalas que, en rigor,
 usaban con esa estructura exacta.
 
 ## El rol de la música en la vida griega
+
+![Vasija griega con escena musical](img/p1_l03_vaso_griego_musico.webp)
 
 La música griega no se escuchaba "sentado en silencio" como hoy en un auditorio: estaba integrada
 en la vida pública.

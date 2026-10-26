@@ -1,5 +1,7 @@
 # 1.5 — Teóricos y figuras conocidas
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** conocer a las figuras individuales que sí nos llegaron por nombre de este período,
 entendiendo por qué no son "compositores" en el sentido que vas a ver desde la Edad Media.
 
@@ -12,6 +14,8 @@ cuya obra se conserva y se firma" todavía no existía como institución social.
 necesariamente conozcamos ninguna melodía concreta que hayan compuesto ellos mismos.
 
 ## Pitágoras (h. 570-495 a.C.)
+
+![Representación clásica de Pitágoras](img/p1_l05_pitagoras.webp)
 
 Filósofo y matemático de Samos, fundador de una escuela filosófico-religiosa en el sur de Italia.
 No escribió ningún tratado musical que haya sobrevivido (de hecho, no se sabe con certeza si
@@ -28,6 +32,8 @@ real.
 
 ## Aristóxeno de Tarento (h. 375-320 a.C.)
 
+![Representación de Aristóxeno de Tarento](img/p1_l05_aristoxeno.webp)
+
 Discípulo de Aristóteles, es el primer teórico musical cuyo texto nos llegó de forma sustancial:
 su obra "Elementos de armonía" (Harmonika stoicheia) es el tratado de teoría musical más antiguo
 que se conserva casi completo. Aristóxeno discutió abiertamente con la tradición pitagórica: donde
@@ -38,6 +44,8 @@ con otras palabras, muchísimas veces más adelante en este curso (por ejemplo, 
 afinación "justa" y afinación "temperada" que vas a ver en el Barroco y el Clasicismo).
 
 ## Boecio (h. 477-524 d.C.)
+
+![Manuscrito medieval con Boecio](img/p1_l05_boecio.webp)
 
 Filósofo romano, estadista, consejero del rey ostrogodo Teodorico en Rávena, ejecutado por traición
 (una acusación que probablemente fue política) alrededor del año 524. Mientras esperaba su

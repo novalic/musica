@@ -1,9 +1,13 @@
 # 2.6 — Hildegard de Bingen
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** conocer la vida y la obra de Hildegard de Bingen, la primera compositora de la
 historia de la música occidental identificada por nombre con un catálogo de obra sustancial.
 
 ## Vida
+
+![Hildegard de Bingen en una miniatura medieval](img/p2_l06_hildegard_bingen.webp)
 
 Hildegard de Bingen nació en 1098 en Bermersheim, en la región del Rin, en lo que hoy es Alemania,
 en una familia noble. A los 8 años fue entregada, como era costumbre en familias nobles con muchos

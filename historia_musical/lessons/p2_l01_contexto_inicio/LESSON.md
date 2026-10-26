@@ -1,5 +1,7 @@
 # 2.1 — Contexto de inicio
 
+[⬅ volver al índice del curso](../../README.md)
+
 **Objetivo:** entender el mundo social, político y religioso en el que nace la música medieval, y
 por qué la Iglesia se convierte en su centro absoluto.
 
@@ -16,6 +18,8 @@ tierra a cambio de trabajo y lealtad militar, en una cadena de obligaciones que 
 campesino hasta el rey.
 
 ## Por qué la Iglesia es el centro de todo
+
+![Monasterio medieval europeo](img/p2_l01_monasterio_medieval.webp)
 
 En ese contexto de fragmentación política, la Iglesia católica es la única institución europea
 que mantiene una organización coherente de punta a punta del continente: tiene sus propios
