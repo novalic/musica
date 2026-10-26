@@ -40,34 +40,34 @@ lección de figuras menores, obras clave / guía de escucha, y contexto históri
 
 | # | Lección | Qué aprendés | Estado |
 |---|---------|--------------|--------|
-| 3.1 | Contexto de inicio | humanismo, mecenazgo de las cortes italianas, el renacer cultural europeo | ⏳ |
-| 3.2 | Instrumentos del Renacimiento | laúd, viola da gamba, clavicémbalo, chirimía, el órgano renacentista | ⏳ |
-| 3.3 | La música del período | polifonía vocal, la misa y el motete, el madrigal, cómo suena | ⏳ |
-| 3.4 | Hitos importantes | la imprenta musical de Petrucci, el Concilio de Trento, la Reforma protestante | ⏳ |
-| 3.5 | Guillaume Dufay | biografía y obra | ⏳ |
-| 3.6 | Josquin des Prez | biografía y obra | ⏳ |
-| 3.7 | Giovanni Pierluigi da Palestrina | biografía y obra | ⏳ |
-| 3.8 | Orlando di Lasso | biografía y obra | ⏳ |
-| 3.9 | Figuras menores | Thomas Tallis, William Byrd, Giovanni Gabrieli | ⏳ |
-| 3.10 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ⏳ |
-| 3.11 | Fin del período | la crisis religiosa y estética que abre paso al Barroco | ⏳ |
+| 3.1 | Contexto de inicio | humanismo, mecenazgo de las cortes italianas, el renacer cultural europeo | ✅ |
+| 3.2 | Instrumentos del Renacimiento | laúd, viola da gamba, clavicémbalo, chirimía, el órgano renacentista | ✅ |
+| 3.3 | La música del período | polifonía vocal, la misa y el motete, el madrigal, cómo suena | ✅ |
+| 3.4 | Hitos importantes | la imprenta musical de Petrucci, el Concilio de Trento, la Reforma protestante | ✅ |
+| 3.5 | Guillaume Dufay | biografía y obra | ✅ |
+| 3.6 | Josquin des Prez | biografía y obra | ✅ |
+| 3.7 | Giovanni Pierluigi da Palestrina | biografía y obra | ✅ |
+| 3.8 | Orlando di Lasso | biografía y obra | ✅ |
+| 3.9 | Figuras menores | Thomas Tallis, William Byrd, Giovanni Gabrieli | ✅ |
+| 3.10 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ✅ |
+| 3.11 | Fin del período | la crisis religiosa y estética que abre paso al Barroco | ✅ |
 
 ## Fase 4 — Barroco
 
 | # | Lección | Qué aprendés | Estado |
 |---|---------|--------------|--------|
-| 4.1 | Contexto de inicio | absolutismo, mecenazgo cortesano y religioso, el nacimiento de la ópera | ⏳ |
-| 4.2 | Instrumentos del Barroco | clavecín, órgano barroco, el violín moderno, instrumentos del bajo continuo | ⏳ |
-| 4.3 | La música del período | contrapunto, bajo continuo, ornamentación, cómo suena | ⏳ |
-| 4.4 | Forma y vocabulario técnico | la fuga, la suite, el concierto, la forma ritornello, la ópera temprana | ⏳ |
-| 4.5 | Hitos importantes | el estreno de L'Orfeo, las academias de música, la expansión de la ópera por Europa | ⏳ |
-| 4.6 | Claudio Monteverdi | biografía y obra, el nacimiento de la ópera | ⏳ |
-| 4.7 | Antonio Vivaldi | biografía y obra | ⏳ |
-| 4.8 | Johann Sebastian Bach | biografía y obra | ⏳ |
-| 4.9 | George Frideric Handel | biografía y obra | ⏳ |
-| 4.10 | Figuras menores | Henry Purcell, Jean-Philippe Rameau, Domenico Scarlatti, Georg Philipp Telemann | ⏳ |
-| 4.11 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ⏳ |
-| 4.12 | Fin del período | la muerte de Bach, el cambio de gusto hacia el estilo galante | ⏳ |
+| 4.1 | Contexto de inicio | absolutismo, mecenazgo cortesano y religioso, el nacimiento de la ópera | ✅ |
+| 4.2 | Instrumentos del Barroco | clavecín, órgano barroco, el violín moderno, instrumentos del bajo continuo | ✅ |
+| 4.3 | La música del período | contrapunto, bajo continuo, ornamentación, cómo suena | ✅ |
+| 4.4 | Forma y vocabulario técnico | la fuga, la suite, el concierto, la forma ritornello, la ópera temprana | ✅ |
+| 4.5 | Hitos importantes | el estreno de L'Orfeo, las academias de música, la expansión de la ópera por Europa | ✅ |
+| 4.6 | Claudio Monteverdi | biografía y obra, el nacimiento de la ópera | ✅ |
+| 4.7 | Antonio Vivaldi | biografía y obra | ✅ |
+| 4.8 | Johann Sebastian Bach | biografía y obra | ✅ |
+| 4.9 | George Frideric Handel | biografía y obra | ✅ |
+| 4.10 | Figuras menores | Henry Purcell, Jean-Philippe Rameau, Domenico Scarlatti, Georg Philipp Telemann | ✅ |
+| 4.11 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ✅ |
+| 4.12 | Fin del período | la muerte de Bach, el cambio de gusto hacia el estilo galante | ✅ |
 
 ## Fase 5 — Clasicismo
 

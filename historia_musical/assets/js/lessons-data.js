@@ -171,7 +171,7 @@ const LESSONS = [
     "summary": "humanismo, mecenazgo de las cortes italianas, el renacer cultural europeo",
     "summaryText": "humanismo, mecenazgo de las cortes italianas, el renacer cultural europeo",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.2",
@@ -180,7 +180,7 @@ const LESSONS = [
     "summary": "laúd, viola da gamba, clavicémbalo, chirimía, el órgano renacentista",
     "summaryText": "laúd, viola da gamba, clavicémbalo, chirimía, el órgano renacentista",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.3",
@@ -189,7 +189,7 @@ const LESSONS = [
     "summary": "polifonía vocal, la misa y el motete, el madrigal, cómo suena",
     "summaryText": "polifonía vocal, la misa y el motete, el madrigal, cómo suena",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.4",
@@ -198,7 +198,7 @@ const LESSONS = [
     "summary": "la imprenta musical de Petrucci, el Concilio de Trento, la Reforma protestante",
     "summaryText": "la imprenta musical de Petrucci, el Concilio de Trento, la Reforma protestante",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.5",
@@ -207,7 +207,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.6",
@@ -216,7 +216,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.7",
@@ -225,7 +225,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.8",
@@ -234,7 +234,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.9",
@@ -243,7 +243,7 @@ const LESSONS = [
     "summary": "Thomas Tallis, William Byrd, Giovanni Gabrieli",
     "summaryText": "Thomas Tallis, William Byrd, Giovanni Gabrieli",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.10",
@@ -252,7 +252,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "3.11",
@@ -261,7 +261,7 @@ const LESSONS = [
     "summary": "la crisis religiosa y estética que abre paso al Barroco",
     "summaryText": "la crisis religiosa y estética que abre paso al Barroco",
     "phase": "Fase 3 — Renacimiento",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.1",
@@ -270,7 +270,7 @@ const LESSONS = [
     "summary": "absolutismo, mecenazgo cortesano y religioso, el nacimiento de la ópera",
     "summaryText": "absolutismo, mecenazgo cortesano y religioso, el nacimiento de la ópera",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.2",
@@ -279,7 +279,7 @@ const LESSONS = [
     "summary": "clavecín, órgano barroco, el violín moderno, instrumentos del bajo continuo",
     "summaryText": "clavecín, órgano barroco, el violín moderno, instrumentos del bajo continuo",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.3",
@@ -288,7 +288,7 @@ const LESSONS = [
     "summary": "contrapunto, bajo continuo, ornamentación, cómo suena",
     "summaryText": "contrapunto, bajo continuo, ornamentación, cómo suena",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.4",
@@ -297,7 +297,7 @@ const LESSONS = [
     "summary": "la fuga, la suite, el concierto, la forma ritornello, la ópera temprana",
     "summaryText": "la fuga, la suite, el concierto, la forma ritornello, la ópera temprana",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.5",
@@ -306,7 +306,7 @@ const LESSONS = [
     "summary": "el estreno de L&#x27;Orfeo, las academias de música, la expansión de la ópera por Europa",
     "summaryText": "el estreno de L'Orfeo, las academias de música, la expansión de la ópera por Europa",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.6",
@@ -315,7 +315,7 @@ const LESSONS = [
     "summary": "biografía y obra, el nacimiento de la ópera",
     "summaryText": "biografía y obra, el nacimiento de la ópera",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.7",
@@ -324,7 +324,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.8",
@@ -333,7 +333,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.9",
@@ -342,7 +342,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.10",
@@ -351,7 +351,7 @@ const LESSONS = [
     "summary": "Henry Purcell, Jean-Philippe Rameau, Domenico Scarlatti, Georg Philipp Telemann",
     "summaryText": "Henry Purcell, Jean-Philippe Rameau, Domenico Scarlatti, Georg Philipp Telemann",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.11",
@@ -360,7 +360,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "4.12",
@@ -369,7 +369,7 @@ const LESSONS = [
     "summary": "la muerte de Bach, el cambio de gusto hacia el estilo galante",
     "summaryText": "la muerte de Bach, el cambio de gusto hacia el estilo galante",
     "phase": "Fase 4 — Barroco",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.1",

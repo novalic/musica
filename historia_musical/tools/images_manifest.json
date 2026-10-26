@@ -1,38 +1,490 @@
 [
-  {"id": "p1_l01_musicos_egipto", "lesson": "1.1", "dest": "lessons/p1_l01_contexto_inicio/img/p1_l01_musicos_egipto.webp", "alt": "Mural egipcio con músicos y arpista", "query": "pintura mural egipcia con arpista y músicos, tumba de Tebas o Saqqara", "status": "pending"},
-  {"id": "p1_l02_lira", "lesson": "1.2", "dest": "lessons/p1_l02_instrumentos/img/p1_l02_lira.webp", "alt": "Lira antigua de cuerdas", "query": "lira mesopotámica o griega antigua, instrumento de cuerda con brazos curvos", "status": "pending"},
-  {"id": "p1_l02_arpa_ur", "lesson": "1.2", "dest": "lessons/p1_l02_instrumentos/img/p1_l02_arpa_ur.webp", "alt": "Arpa/lira de Ur con cabeza de toro dorada", "query": "Arpa de Ur, lira del toro dorado, Museo Británico o Penn Museum", "status": "pending"},
-  {"id": "p1_l02_kithara", "lesson": "1.2", "dest": "lessons/p1_l02_instrumentos/img/p1_l02_kithara.webp", "alt": "Kithara griega representada en cerámica", "query": "kithara griega antigua, vaso griego con citarista tocando", "status": "pending"},
-  {"id": "p1_l02_aulos", "lesson": "1.2", "dest": "lessons/p1_l02_instrumentos/img/p1_l02_aulos.webp", "alt": "Aulos griego, flauta doble de lengüeta", "query": "aulos griego antiguo, instrumento de viento doble con lengüeta", "status": "pending"},
-  {"id": "p1_l02_buccina", "lesson": "1.2", "dest": "lessons/p1_l02_instrumentos/img/p1_l02_buccina.webp", "alt": "Buccina romana, trompa militar", "query": "buccina o cornu romano, trompa militar romana enrollada", "status": "pending"},
-  {"id": "p1_l02_sistro", "lesson": "1.2", "dest": "lessons/p1_l02_instrumentos/img/p1_l02_sistro.webp", "alt": "Sistro egipcio", "query": "sistro egipcio, instrumento de percusión ritual con discos metálicos", "status": "pending"},
-  {"id": "p1_l03_vaso_griego_musico", "lesson": "1.3", "dest": "lessons/p1_l03_musica_grecia_roma/img/p1_l03_vaso_griego_musico.webp", "alt": "Vasija griega con escena musical", "query": "vaso griego antiguo con escena de músico tocando kithara o aulos", "status": "pending"},
-  {"id": "p1_l04_excavacion_ur", "lesson": "1.4", "dest": "lessons/p1_l04_hitos/img/p1_l04_excavacion_ur.webp", "alt": "Excavación arqueológica de Ur con instrumentos", "query": "excavación del Cementerio Real de Ur, Leonard Woolley, liras encontradas", "status": "pending"},
-  {"id": "p1_l04_tablilla_nikkal", "lesson": "1.4", "dest": "lessons/p1_l04_hitos/img/p1_l04_tablilla_nikkal.webp", "alt": "Tablilla cuneiforme del Himno a Nikkal", "query": "tablilla cuneiforme hurrita de Ugarit, himno a Nikkal h.6", "status": "pending"},
-  {"id": "p1_l05_pitagoras", "lesson": "1.5", "dest": "lessons/p1_l05_teoricos_figuras/img/p1_l05_pitagoras.webp", "alt": "Representación clásica de Pitágoras", "query": "busto o pintura clásica de Pitágoras", "status": "pending"},
-  {"id": "p1_l05_aristoxeno", "lesson": "1.5", "dest": "lessons/p1_l05_teoricos_figuras/img/p1_l05_aristoxeno.webp", "alt": "Representación de Aristóxeno de Tarento", "query": "busto o grabado de Aristóxeno de Tarento, filósofo griego teórico musical", "status": "pending"},
-  {"id": "p1_l05_boecio", "lesson": "1.5", "dest": "lessons/p1_l05_teoricos_figuras/img/p1_l05_boecio.webp", "alt": "Manuscrito medieval con Boecio", "query": "manuscrito medieval iluminado de Boecio enseñando o escribiendo, Consolación de la filosofía", "status": "pending"},
-  {"id": "p1_l06_epitafio_seikilos", "lesson": "1.6", "dest": "lessons/p1_l06_obras_clave/img/p1_l06_epitafio_seikilos.webp", "alt": "Estela del Epitafio de Seikilos", "query": "estela epitafio de Seikilos, inscripción griega con notación musical", "status": "pending"},
-  {"id": "p1_l07_ruinas_foro_romano", "lesson": "1.7", "dest": "lessons/p1_l07_fin_periodo/img/p1_l07_ruinas_foro_romano.webp", "alt": "Ruinas del Foro Romano", "query": "ruinas del Foro Romano o caída de Roma, pintura o fotografía", "status": "pending"},
-  {"id": "p2_l01_monasterio_medieval", "lesson": "2.1", "dest": "lessons/p2_l01_contexto_inicio/img/p2_l01_monasterio_medieval.webp", "alt": "Monasterio medieval europeo", "query": "monasterio medieval europeo, abadía benedictina, foto o pintura", "status": "pending"},
-  {"id": "p2_l02_organo_tubos", "lesson": "2.2", "dest": "lessons/p2_l02_instrumentos/img/p2_l02_organo_tubos.webp", "alt": "Órgano de tubos medieval", "query": "órgano de tubos medieval en una catedral, con fuelles", "status": "pending"},
-  {"id": "p2_l02_vihuela_rueda", "lesson": "2.2", "dest": "lessons/p2_l02_instrumentos/img/p2_l02_vihuela_rueda.webp", "alt": "Vihuela de rueda (zanfona) medieval", "query": "vihuela de rueda medieval, zanfona, instrumento con manivela", "status": "pending"},
-  {"id": "p2_l02_laud_medieval", "lesson": "2.2", "dest": "lessons/p2_l02_instrumentos/img/p2_l02_laud_medieval.webp", "alt": "Laúd medieval", "query": "laúd medieval, instrumento de cuerda con caja en forma de pera", "status": "pending"},
-  {"id": "p2_l02_flauta_dulce", "lesson": "2.2", "dest": "lessons/p2_l02_instrumentos/img/p2_l02_flauta_dulce.webp", "alt": "Flauta dulce medieval", "query": "flauta dulce o caramillo medieval, ilustración o manuscrito", "status": "pending"},
-  {"id": "p2_l02_salterio", "lesson": "2.2", "dest": "lessons/p2_l02_instrumentos/img/p2_l02_salterio.webp", "alt": "Salterio medieval", "query": "salterio medieval, instrumento de cuerda trapezoidal", "status": "pending"},
-  {"id": "p2_l02_campanas", "lesson": "2.2", "dest": "lessons/p2_l02_instrumentos/img/p2_l02_campanas.webp", "alt": "Campanas medievales", "query": "campanas de iglesia medievales o carillón", "status": "pending"},
-  {"id": "p2_l03_manuscrito_gregoriano", "lesson": "2.3", "dest": "lessons/p2_l03_la_musica_del_periodo/img/p2_l03_manuscrito_gregoriano.webp", "alt": "Manuscrito de canto gregoriano", "query": "manuscrito de canto gregoriano con neumas, página iluminada", "status": "pending"},
-  {"id": "p2_l04_neumas_antiguos", "lesson": "2.4", "dest": "lessons/p2_l04_notacion_forma/img/p2_l04_neumas_antiguos.webp", "alt": "Neumas medievales sin pentagrama", "query": "notación de neumas antiguos sin líneas, manuscrito medieval temprano", "status": "pending"},
-  {"id": "p2_l04_guido_arezzo", "lesson": "2.4", "dest": "lessons/p2_l04_notacion_forma/img/p2_l04_guido_arezzo.webp", "alt": "Guido d'Arezzo y su sistema de notación", "query": "Guido d'Arezzo, retrato o manuscrito con sistema de líneas/pentagrama", "status": "pending"},
-  {"id": "p2_l05_carlomagno", "lesson": "2.5", "dest": "lessons/p2_l05_hitos/img/p2_l05_carlomagno.webp", "alt": "Coronación de Carlomagno", "query": "coronación de Carlomagno, pintura histórica", "status": "pending"},
-  {"id": "p2_l05_notre_dame", "lesson": "2.5", "dest": "lessons/p2_l05_hitos/img/p2_l05_notre_dame.webp", "alt": "Catedral de Notre Dame de París", "query": "fotografía de la catedral de Notre Dame de París", "status": "pending"},
-  {"id": "p2_l06_hildegard_bingen", "lesson": "2.6", "dest": "lessons/p2_l06_hildegard_de_bingen/img/p2_l06_hildegard_bingen.webp", "alt": "Hildegard de Bingen en una miniatura medieval", "query": "Hildegard de Bingen, miniatura del manuscrito Scivias recibiendo la visión", "status": "pending"},
-  {"id": "p2_l07_manuscrito_notre_dame", "lesson": "2.7", "dest": "lessons/p2_l07_leonin_perotin/img/p2_l07_manuscrito_notre_dame.webp", "alt": "Página manuscrita del Magnus Liber Organi", "query": "página del manuscrito Magnus Liber Organi, Florencia Plut 29.1", "status": "pending"},
-  {"id": "p2_l08_machaut_retrato", "lesson": "2.8", "dest": "lessons/p2_l08_guillaume_de_machaut/img/p2_l08_machaut_retrato.webp", "alt": "Retrato de Guillaume de Machaut en manuscrito", "query": "retrato iluminado de Guillaume de Machaut en manuscrito medieval", "status": "pending"},
-  {"id": "p2_l09_guillermo_aquitania", "lesson": "2.9", "dest": "lessons/p2_l09_figuras_menores/img/p2_l09_guillermo_aquitania.webp", "alt": "Guillermo de Aquitania", "query": "miniatura o retrato de Guillermo IX de Aquitania, trovador", "status": "pending"},
-  {"id": "p2_l09_bernart_ventadorn", "lesson": "2.9", "dest": "lessons/p2_l09_figuras_menores/img/p2_l09_bernart_ventadorn.webp", "alt": "Bernart de Ventadorn en un cancionero medieval", "query": "miniatura de Bernart de Ventadorn en cancionero (chansonnier) provenzal", "status": "pending"},
-  {"id": "p2_l09_adam_de_la_halle", "lesson": "2.9", "dest": "lessons/p2_l09_figuras_menores/img/p2_l09_adam_de_la_halle.webp", "alt": "Adam de la Halle en un manuscrito", "query": "miniatura de Adam de la Halle en manuscrito medieval", "status": "pending"},
-  {"id": "p2_l10_manuscrito_rondeau", "lesson": "2.10", "dest": "lessons/p2_l10_obras_clave/img/p2_l10_manuscrito_rondeau.webp", "alt": "Manuscrito del rondó palíndromo de Machaut", "query": "manuscrito de Ma fin est mon commencement de Machaut, notación circular", "status": "pending"},
-  {"id": "p2_l11_peste_negra", "lesson": "2.11", "dest": "lessons/p2_l11_fin_periodo/img/p2_l11_peste_negra.webp", "alt": "Ilustración medieval de la peste negra", "query": "ilustración medieval de la peste negra", "status": "pending"},
-  {"id": "p2_l11_caida_constantinopla", "lesson": "2.11", "dest": "lessons/p2_l11_fin_periodo/img/p2_l11_caida_constantinopla.webp", "alt": "Caída de Constantinopla en 1453", "query": "caída de Constantinopla 1453, pintura histórica", "status": "pending"}
+  {
+    "id": "p1_l01_musicos_egipto",
+    "lesson": "1.1",
+    "dest": "lessons/p1_l01_contexto_inicio/img/p1_l01_musicos_egipto.webp",
+    "alt": "Mural egipcio con músicos y arpista",
+    "query": "pintura mural egipcia con arpista y músicos, tumba de Tebas o Saqqara",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l02_lira",
+    "lesson": "1.2",
+    "dest": "lessons/p1_l02_instrumentos/img/p1_l02_lira.webp",
+    "alt": "Lira antigua de cuerdas",
+    "query": "lira mesopotámica o griega antigua, instrumento de cuerda con brazos curvos",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l02_arpa_ur",
+    "lesson": "1.2",
+    "dest": "lessons/p1_l02_instrumentos/img/p1_l02_arpa_ur.webp",
+    "alt": "Arpa/lira de Ur con cabeza de toro dorada",
+    "query": "Arpa de Ur, lira del toro dorado, Museo Británico o Penn Museum",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l02_kithara",
+    "lesson": "1.2",
+    "dest": "lessons/p1_l02_instrumentos/img/p1_l02_kithara.webp",
+    "alt": "Kithara griega representada en cerámica",
+    "query": "kithara griega antigua, vaso griego con citarista tocando",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l02_aulos",
+    "lesson": "1.2",
+    "dest": "lessons/p1_l02_instrumentos/img/p1_l02_aulos.webp",
+    "alt": "Aulos griego, flauta doble de lengüeta",
+    "query": "aulos griego antiguo, instrumento de viento doble con lengüeta",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l02_buccina",
+    "lesson": "1.2",
+    "dest": "lessons/p1_l02_instrumentos/img/p1_l02_buccina.webp",
+    "alt": "Buccina romana, trompa militar",
+    "query": "buccina o cornu romano, trompa militar romana enrollada",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l02_sistro",
+    "lesson": "1.2",
+    "dest": "lessons/p1_l02_instrumentos/img/p1_l02_sistro.webp",
+    "alt": "Sistro egipcio",
+    "query": "sistro egipcio, instrumento de percusión ritual con discos metálicos",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l03_vaso_griego_musico",
+    "lesson": "1.3",
+    "dest": "lessons/p1_l03_musica_grecia_roma/img/p1_l03_vaso_griego_musico.webp",
+    "alt": "Vasija griega con escena musical",
+    "query": "vaso griego antiguo con escena de músico tocando kithara o aulos",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l04_excavacion_ur",
+    "lesson": "1.4",
+    "dest": "lessons/p1_l04_hitos/img/p1_l04_excavacion_ur.webp",
+    "alt": "Excavación arqueológica de Ur con instrumentos",
+    "query": "excavación del Cementerio Real de Ur, Leonard Woolley, liras encontradas",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l04_tablilla_nikkal",
+    "lesson": "1.4",
+    "dest": "lessons/p1_l04_hitos/img/p1_l04_tablilla_nikkal.webp",
+    "alt": "Tablilla cuneiforme del Himno a Nikkal",
+    "query": "tablilla cuneiforme hurrita de Ugarit, himno a Nikkal h.6",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l05_pitagoras",
+    "lesson": "1.5",
+    "dest": "lessons/p1_l05_teoricos_figuras/img/p1_l05_pitagoras.webp",
+    "alt": "Representación clásica de Pitágoras",
+    "query": "busto o pintura clásica de Pitágoras",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l05_aristoxeno",
+    "lesson": "1.5",
+    "dest": "lessons/p1_l05_teoricos_figuras/img/p1_l05_aristoxeno.webp",
+    "alt": "Representación de Aristóxeno de Tarento",
+    "query": "busto o grabado de Aristóxeno de Tarento, filósofo griego teórico musical",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l05_boecio",
+    "lesson": "1.5",
+    "dest": "lessons/p1_l05_teoricos_figuras/img/p1_l05_boecio.webp",
+    "alt": "Manuscrito medieval con Boecio",
+    "query": "manuscrito medieval iluminado de Boecio enseñando o escribiendo, Consolación de la filosofía",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l06_epitafio_seikilos",
+    "lesson": "1.6",
+    "dest": "lessons/p1_l06_obras_clave/img/p1_l06_epitafio_seikilos.webp",
+    "alt": "Estela del Epitafio de Seikilos",
+    "query": "estela epitafio de Seikilos, inscripción griega con notación musical",
+    "status": "pending"
+  },
+  {
+    "id": "p1_l07_ruinas_foro_romano",
+    "lesson": "1.7",
+    "dest": "lessons/p1_l07_fin_periodo/img/p1_l07_ruinas_foro_romano.webp",
+    "alt": "Ruinas del Foro Romano",
+    "query": "ruinas del Foro Romano o caída de Roma, pintura o fotografía",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l01_monasterio_medieval",
+    "lesson": "2.1",
+    "dest": "lessons/p2_l01_contexto_inicio/img/p2_l01_monasterio_medieval.webp",
+    "alt": "Monasterio medieval europeo",
+    "query": "monasterio medieval europeo, abadía benedictina, foto o pintura",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l02_organo_tubos",
+    "lesson": "2.2",
+    "dest": "lessons/p2_l02_instrumentos/img/p2_l02_organo_tubos.webp",
+    "alt": "Órgano de tubos medieval",
+    "query": "órgano de tubos medieval en una catedral, con fuelles",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l02_vihuela_rueda",
+    "lesson": "2.2",
+    "dest": "lessons/p2_l02_instrumentos/img/p2_l02_vihuela_rueda.webp",
+    "alt": "Vihuela de rueda (zanfona) medieval",
+    "query": "vihuela de rueda medieval, zanfona, instrumento con manivela",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l02_laud_medieval",
+    "lesson": "2.2",
+    "dest": "lessons/p2_l02_instrumentos/img/p2_l02_laud_medieval.webp",
+    "alt": "Laúd medieval",
+    "query": "laúd medieval, instrumento de cuerda con caja en forma de pera",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l02_flauta_dulce",
+    "lesson": "2.2",
+    "dest": "lessons/p2_l02_instrumentos/img/p2_l02_flauta_dulce.webp",
+    "alt": "Flauta dulce medieval",
+    "query": "flauta dulce o caramillo medieval, ilustración o manuscrito",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l02_salterio",
+    "lesson": "2.2",
+    "dest": "lessons/p2_l02_instrumentos/img/p2_l02_salterio.webp",
+    "alt": "Salterio medieval",
+    "query": "salterio medieval, instrumento de cuerda trapezoidal",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l02_campanas",
+    "lesson": "2.2",
+    "dest": "lessons/p2_l02_instrumentos/img/p2_l02_campanas.webp",
+    "alt": "Campanas medievales",
+    "query": "campanas de iglesia medievales o carillón",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l03_manuscrito_gregoriano",
+    "lesson": "2.3",
+    "dest": "lessons/p2_l03_la_musica_del_periodo/img/p2_l03_manuscrito_gregoriano.webp",
+    "alt": "Manuscrito de canto gregoriano",
+    "query": "manuscrito de canto gregoriano con neumas, página iluminada",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l04_neumas_antiguos",
+    "lesson": "2.4",
+    "dest": "lessons/p2_l04_notacion_forma/img/p2_l04_neumas_antiguos.webp",
+    "alt": "Neumas medievales sin pentagrama",
+    "query": "notación de neumas antiguos sin líneas, manuscrito medieval temprano",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l04_guido_arezzo",
+    "lesson": "2.4",
+    "dest": "lessons/p2_l04_notacion_forma/img/p2_l04_guido_arezzo.webp",
+    "alt": "Guido d'Arezzo y su sistema de notación",
+    "query": "Guido d'Arezzo, retrato o manuscrito con sistema de líneas/pentagrama",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l05_carlomagno",
+    "lesson": "2.5",
+    "dest": "lessons/p2_l05_hitos/img/p2_l05_carlomagno.webp",
+    "alt": "Coronación de Carlomagno",
+    "query": "coronación de Carlomagno, pintura histórica",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l05_notre_dame",
+    "lesson": "2.5",
+    "dest": "lessons/p2_l05_hitos/img/p2_l05_notre_dame.webp",
+    "alt": "Catedral de Notre Dame de París",
+    "query": "fotografía de la catedral de Notre Dame de París",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l06_hildegard_bingen",
+    "lesson": "2.6",
+    "dest": "lessons/p2_l06_hildegard_de_bingen/img/p2_l06_hildegard_bingen.webp",
+    "alt": "Hildegard de Bingen en una miniatura medieval",
+    "query": "Hildegard de Bingen, miniatura del manuscrito Scivias recibiendo la visión",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l07_manuscrito_notre_dame",
+    "lesson": "2.7",
+    "dest": "lessons/p2_l07_leonin_perotin/img/p2_l07_manuscrito_notre_dame.webp",
+    "alt": "Página manuscrita del Magnus Liber Organi",
+    "query": "página del manuscrito Magnus Liber Organi, Florencia Plut 29.1",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l08_machaut_retrato",
+    "lesson": "2.8",
+    "dest": "lessons/p2_l08_guillaume_de_machaut/img/p2_l08_machaut_retrato.webp",
+    "alt": "Retrato de Guillaume de Machaut en manuscrito",
+    "query": "retrato iluminado de Guillaume de Machaut en manuscrito medieval",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l09_guillermo_aquitania",
+    "lesson": "2.9",
+    "dest": "lessons/p2_l09_figuras_menores/img/p2_l09_guillermo_aquitania.webp",
+    "alt": "Guillermo de Aquitania",
+    "query": "miniatura o retrato de Guillermo IX de Aquitania, trovador",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l09_bernart_ventadorn",
+    "lesson": "2.9",
+    "dest": "lessons/p2_l09_figuras_menores/img/p2_l09_bernart_ventadorn.webp",
+    "alt": "Bernart de Ventadorn en un cancionero medieval",
+    "query": "miniatura de Bernart de Ventadorn en cancionero (chansonnier) provenzal",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l09_adam_de_la_halle",
+    "lesson": "2.9",
+    "dest": "lessons/p2_l09_figuras_menores/img/p2_l09_adam_de_la_halle.webp",
+    "alt": "Adam de la Halle en un manuscrito",
+    "query": "miniatura de Adam de la Halle en manuscrito medieval",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l10_manuscrito_rondeau",
+    "lesson": "2.10",
+    "dest": "lessons/p2_l10_obras_clave/img/p2_l10_manuscrito_rondeau.webp",
+    "alt": "Manuscrito del rondó palíndromo de Machaut",
+    "query": "manuscrito de Ma fin est mon commencement de Machaut, notación circular",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l11_peste_negra",
+    "lesson": "2.11",
+    "dest": "lessons/p2_l11_fin_periodo/img/p2_l11_peste_negra.webp",
+    "alt": "Ilustración medieval de la peste negra",
+    "query": "ilustración medieval de la peste negra",
+    "status": "pending"
+  },
+  {
+    "id": "p2_l11_caida_constantinopla",
+    "lesson": "2.11",
+    "dest": "lessons/p2_l11_fin_periodo/img/p2_l11_caida_constantinopla.webp",
+    "alt": "Caída de Constantinopla en 1453",
+    "query": "caída de Constantinopla 1453, pintura histórica",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l02_laud",
+    "lesson": "3.2",
+    "dest": "lessons/p3_l02_instrumentos/img/p3_l02_laud.webp",
+    "alt": "Laúd renacentista",
+    "query": "laúd renacentista, instrumento de cuerda pulsada del siglo XVI, pintura o instrumento de museo",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l02_viola_da_gamba",
+    "lesson": "3.2",
+    "dest": "lessons/p3_l02_instrumentos/img/p3_l02_viola_da_gamba.webp",
+    "alt": "Viola da gamba renacentista",
+    "query": "viola da gamba renacentista, instrumento de cuerda con trastes tocado entre las piernas",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l02_clavicembalo",
+    "lesson": "3.2",
+    "dest": "lessons/p3_l02_instrumentos/img/p3_l02_clavicembalo.webp",
+    "alt": "Clavicémbalo renacentista",
+    "query": "clavicémbalo o virginal renacentista, instrumento de teclado de cuerda pulsada, siglo XVI",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l02_chirimia",
+    "lesson": "3.2",
+    "dest": "lessons/p3_l02_instrumentos/img/p3_l02_chirimia.webp",
+    "alt": "Chirimía renacentista",
+    "query": "chirimía renacentista, instrumento de viento de caña doble usado por consorts de ministriles",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l04_petrucci",
+    "lesson": "3.4",
+    "dest": "lessons/p3_l04_hitos/img/p3_l04_petrucci.webp",
+    "alt": "Partitura impresa por Ottaviano Petrucci",
+    "query": "partitura antigua impresa por Ottaviano Petrucci, música impresa hacia 1501, Venecia",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l05_dufay_retrato",
+    "lesson": "3.5",
+    "dest": "lessons/p3_l05_guillaume_dufay/img/p3_l05_dufay_retrato.webp",
+    "alt": "Retrato de Guillaume Dufay",
+    "query": "retrato histórico o manuscrito iluminado de Guillaume Dufay, compositor renacentista del siglo XV",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l06_josquin_retrato",
+    "lesson": "3.6",
+    "dest": "lessons/p3_l06_josquin_des_prez/img/p3_l06_josquin_retrato.webp",
+    "alt": "Retrato de Josquin des Prez",
+    "query": "retrato histórico o grabado de Josquin des Prez, compositor renacentista",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l07_palestrina_retrato",
+    "lesson": "3.7",
+    "dest": "lessons/p3_l07_palestrina/img/p3_l07_palestrina_retrato.webp",
+    "alt": "Retrato de Giovanni Pierluigi da Palestrina",
+    "query": "retrato histórico de Giovanni Pierluigi da Palestrina, compositor del siglo XVI",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l08_lasso_retrato",
+    "lesson": "3.8",
+    "dest": "lessons/p3_l08_orlando_di_lasso/img/p3_l08_lasso_retrato.webp",
+    "alt": "Retrato de Orlando di Lasso",
+    "query": "retrato histórico de Orlando di Lasso (Roland de Lassus), compositor renacentista flamenco",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l09_tallis_retrato",
+    "lesson": "3.9",
+    "dest": "lessons/p3_l09_figuras_menores/img/p3_l09_tallis_retrato.webp",
+    "alt": "Retrato de Thomas Tallis",
+    "query": "retrato histórico o grabado de Thomas Tallis, compositor inglés del siglo XVI",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l09_byrd_retrato",
+    "lesson": "3.9",
+    "dest": "lessons/p3_l09_figuras_menores/img/p3_l09_byrd_retrato.webp",
+    "alt": "Retrato de William Byrd",
+    "query": "retrato histórico o grabado de William Byrd, compositor inglés del siglo XVI",
+    "status": "pending"
+  },
+  {
+    "id": "p3_l09_gabrieli_retrato",
+    "lesson": "3.9",
+    "dest": "lessons/p3_l09_figuras_menores/img/p3_l09_gabrieli_retrato.webp",
+    "alt": "Retrato de Giovanni Gabrieli",
+    "query": "retrato histórico de Giovanni Gabrieli, organista y compositor de la Basílica de San Marco de Venecia",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l02_clavecin",
+    "lesson": "4.2",
+    "dest": "lessons/p4_l02_instrumentos/img/p4_l02_clavecin.webp",
+    "alt": "Clavecín barroco",
+    "query": "clavecín barroco, instrumento de teclado decorado, siglo XVII-XVIII",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l02_violin",
+    "lesson": "4.2",
+    "dest": "lessons/p4_l02_instrumentos/img/p4_l02_violin.webp",
+    "alt": "Violín barroco",
+    "query": "violín barroco antiguo, estilo Stradivari o Amati, siglo XVII-XVIII",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l02_organo_barroco",
+    "lesson": "4.2",
+    "dest": "lessons/p4_l02_instrumentos/img/p4_l02_organo_barroco.webp",
+    "alt": "Órgano barroco",
+    "query": "órgano de tubos barroco, iglesia europea, siglo XVII-XVIII",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l02_oboe",
+    "lesson": "4.2",
+    "dest": "lessons/p4_l02_instrumentos/img/p4_l02_oboe.webp",
+    "alt": "Oboe barroco",
+    "query": "oboe barroco antiguo, instrumento de viento de caña doble, siglo XVII-XVIII",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l05_orfeo",
+    "lesson": "4.5",
+    "dest": "lessons/p4_l05_hitos/img/p4_l05_orfeo.webp",
+    "alt": "Portada de una partitura antigua de ópera barroca",
+    "query": "portada o grabado antiguo de una partitura de ópera barroca temprana, por ejemplo Orfeo de Monteverdi 1607",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l06_monteverdi_retrato",
+    "lesson": "4.6",
+    "dest": "lessons/p4_l06_monteverdi/img/p4_l06_monteverdi_retrato.webp",
+    "alt": "Retrato de Claudio Monteverdi",
+    "query": "retrato histórico de Claudio Monteverdi, compositor italiano del siglo XVII",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l07_vivaldi_retrato",
+    "lesson": "4.7",
+    "dest": "lessons/p4_l07_vivaldi/img/p4_l07_vivaldi_retrato.webp",
+    "alt": "Retrato de Antonio Vivaldi",
+    "query": "retrato histórico de Antonio Vivaldi, compositor veneciano del siglo XVIII",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l08_bach_retrato",
+    "lesson": "4.8",
+    "dest": "lessons/p4_l08_bach/img/p4_l08_bach_retrato.webp",
+    "alt": "Retrato de Johann Sebastian Bach",
+    "query": "retrato histórico de Johann Sebastian Bach, el retrato de Haussmann es el más conocido",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l09_handel_retrato",
+    "lesson": "4.9",
+    "dest": "lessons/p4_l09_handel/img/p4_l09_handel_retrato.webp",
+    "alt": "Retrato de George Frideric Handel",
+    "query": "retrato histórico de George Frideric Handel, compositor alemán-británico del siglo XVIII",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l10_purcell_retrato",
+    "lesson": "4.10",
+    "dest": "lessons/p4_l10_figuras_menores/img/p4_l10_purcell_retrato.webp",
+    "alt": "Retrato de Henry Purcell",
+    "query": "retrato histórico de Henry Purcell, compositor inglés del siglo XVII",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l10_rameau_retrato",
+    "lesson": "4.10",
+    "dest": "lessons/p4_l10_figuras_menores/img/p4_l10_rameau_retrato.webp",
+    "alt": "Retrato de Jean-Philippe Rameau",
+    "query": "retrato histórico de Jean-Philippe Rameau, compositor y teórico musical francés del siglo XVIII",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l10_scarlatti_retrato",
+    "lesson": "4.10",
+    "dest": "lessons/p4_l10_figuras_menores/img/p4_l10_scarlatti_retrato.webp",
+    "alt": "Retrato de Domenico Scarlatti",
+    "query": "retrato histórico de Domenico Scarlatti, compositor italiano del siglo XVIII activo en España",
+    "status": "pending"
+  },
+  {
+    "id": "p4_l10_telemann_retrato",
+    "lesson": "4.10",
+    "dest": "lessons/p4_l10_figuras_menores/img/p4_l10_telemann_retrato.webp",
+    "alt": "Retrato de Georg Philipp Telemann",
+    "query": "retrato histórico de Georg Philipp Telemann, compositor alemán del siglo XVIII",
+    "status": "pending"
+  }
 ]

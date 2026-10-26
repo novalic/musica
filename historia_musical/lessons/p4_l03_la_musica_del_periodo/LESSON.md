@@ -1,5 +1,99 @@
 # 4.3 — La música del período
 
-> Lección pendiente de redactar.
+[⬅ volver al índice del curso](../../README.md)
 
-**Objetivo:** (a definir)
+**Objetivo:** entender los rasgos musicales que definen al Barroco y lo distinguen claramente del
+Renacimiento.
+
+## El bajo continuo como principio organizador
+
+Ya lo adelantamos en las lecciones 4.1 y 4.2: el rasgo técnico más importante del Barroco es el
+"bajo continuo" (en italiano, "basso continuo"), un sistema donde una línea de bajo escrita se
+acompaña con acordes improvisados por un instrumento como el clavecín o el órgano, a veces
+reforzado por un instrumento de bajo melódico como el violonchelo. Este sistema organiza
+prácticamente toda la textura musical barroca alrededor de dos polos: una línea de bajo sólida y
+constante, y una o más líneas melódicas expresivas por encima de ella. Es un cambio radical
+respecto de la polifonía renacentista (lección 3.3), donde todas las voces tenían, en principio,
+una importancia melódica similar.
+
+## La monodia acompañada y el nacimiento de la ópera
+
+La "monodia acompañada" es el nombre técnico que se le da a esa textura de una sola voz melódica
+expresiva sobre el bajo continuo, la misma idea que la Camerata Florentina (lecciones 3.11 y 4.1)
+propuso como alternativa a la polifonía. Esta textura es la base de la ópera, el género más
+revolucionario e influyente que nace en el Barroco: un espectáculo teatral íntegramente cantado,
+con decorados, vestuario y acción dramática, que va a convertirse en una de las formas de
+entretenimiento más populares e influyentes en la historia de la música occidental, con un peso
+cultural que en algunos sentidos todavía conserva hoy.
+
+## El contraste como principio estético
+
+Si tuviéramos que resumir la estética barroca en una sola palabra, esa palabra sería
+"contraste": entre lo fuerte y lo suave (lo que en italiano se llama "piano" y "forte", de donde
+viene justamente el nombre del instrumento "pianoforte", inventado hacia el final de este
+período), entre lo lento y lo rápido, entre un solista virtuoso y un grupo instrumental completo
+(la base del "concierto" barroco, que vas a estudiar en la lección 4.7 con Vivaldi), y entre la
+simplicidad de una melodía y la complejidad ornamental con la que esa misma melodía puede
+decorarse. Este gusto por el contraste dramático y por los efectos emocionales intensos y
+cambiantes es, en buena medida, lo que separa estéticamente al Barroco del equilibrio sereno y
+constante del Renacimiento.
+
+## La "teoría de los afectos"
+
+Los compositores y teóricos barrocos desarrollan, además, una idea muy particular conocida como
+la "teoría de los afectos": la convicción de que la música puede y debe representar, de forma
+bastante codificada y predecible, emociones humanas específicas ("afectos" como la alegría, la
+ira, el dolor o la calma) usando recursos musicales concretos y reconocibles (una tonalidad
+determinada, un tipo de ritmo, una figura melódica particular asociada convencionalmente a esa
+emoción). Esta idea, que hoy puede sonarnos un poco mecánica, fue tomada muy en serio durante
+todo el período y explica, en parte, por qué la música barroca puede sonar, a quien la escucha
+por primera vez, sorprendentemente "directa" y clara en su expresión emocional, en comparación con
+música de períodos posteriores.
+
+## El contrapunto no desaparece: la fuga
+
+A pesar de todo lo anterior, sería un error pensar que el Barroco abandona por completo la
+técnica contrapuntística de imitación entre voces que estudiamos en la Fase 3 (lección 3.3): al
+contrario, esa técnica se sofistica todavía más en una forma musical específica llamada "fuga",
+donde un tema breve ("sujeto") va apareciendo sucesivamente en distintas voces, que se van
+entrelazando con una lógica contrapuntística muy estricta. La fuga, que vas a conocer en detalle
+cuando lleguemos a Johann Sebastian Bach (lección 4.8), convive, durante todo el Barroco, con la
+textura de monodia acompañada y bajo continuo, en una especie de síntesis entre la herencia
+polifónica del Renacimiento y las novedades del nuevo período.
+
+## Preguntas de repaso
+
+1. ¿Qué es el bajo continuo y por qué se lo considera el rasgo técnico más importante del
+   Barroco?
+2. ¿Qué es la "monodia acompañada" y qué género musical nace directamente de esa textura?
+3. ¿Por qué el contraste se considera el principio estético central del Barroco? Dá al menos dos
+   ejemplos de contrastes típicos de la época.
+4. ¿Qué proponía la "teoría de los afectos" sobre la relación entre la música y las emociones?
+5. ¿Qué es la fuga, y por qué muestra que el Barroco no abandonó completamente la herencia
+   contrapuntística del Renacimiento?
+
+### Respuestas
+
+1. Es un sistema donde una línea de bajo escrita se acompaña con acordes improvisados por un
+   instrumento como el clavecín, organizando toda la textura musical alrededor de una línea de
+   bajo constante y una o más líneas melódicas expresivas. Se lo considera el rasgo más importante
+   porque reemplaza por completo la lógica de la polifonía renacentista, donde todas las voces
+   tenían una importancia melódica similar.
+2. Es la textura de una sola voz melódica expresiva acompañada por el bajo continuo, propuesta
+   originalmente por la Camerata Florentina. De esa textura nace directamente la ópera, el
+   espectáculo teatral íntegramente cantado que se convierte en uno de los géneros más
+   influyentes de la historia de la música occidental.
+3. Porque la estética barroca busca efectos emocionales intensos y cambiantes a través de
+   oposiciones dramáticas: entre lo fuerte y lo suave (piano y forte), entre lo lento y lo rápido,
+   entre un solista virtuoso y un grupo instrumental completo, o entre una melodía simple y su
+   versión ornamentada.
+4. Proponía que la música podía y debía representar emociones humanas específicas (como la
+   alegría, la ira o el dolor) usando recursos musicales concretos y codificados (una tonalidad
+   determinada, un tipo de ritmo, una figura melódica asociada convencionalmente a esa emoción),
+   lo que explica en parte por qué la música barroca puede sonar tan directa en su expresión
+   emocional.
+5. La fuga es una forma musical donde un tema breve ("sujeto") aparece sucesivamente en distintas
+   voces, que se entrelazan con una lógica contrapuntística muy estricta. Muestra que el Barroco
+   no abandonó la herencia polifónica del Renacimiento porque sofistica todavía más esa técnica de
+   imitación entre voces, en convivencia con las novedades del bajo continuo y la monodia
+   acompañada.
