@@ -167,8 +167,7 @@
     "dest": "lessons/p2_l02_instrumentos/img/p2_l02_laud_medieval.webp",
     "alt": "Laúd medieval",
     "query": "laúd medieval, instrumento de cuerda con caja en forma de pera",
-    "status": "done",
-    "orientacion": "horizontal"
+    "status": "pending"
   },
   {
     "id": "p2_l02_flauta_dulce",
@@ -302,7 +301,8 @@
     "dest": "lessons/p2_l10_obras_clave/img/p2_l10_manuscrito_rondeau.webp",
     "alt": "Manuscrito del rondó palíndromo de Machaut",
     "query": "manuscrito de Ma fin est mon commencement de Machaut, notación circular",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p2_l11_peste_negra",
@@ -310,7 +310,8 @@
     "dest": "lessons/p2_l11_fin_periodo/img/p2_l11_peste_negra.webp",
     "alt": "Ilustración medieval de la peste negra",
     "query": "ilustración medieval de la peste negra",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l11_caida_constantinopla",
@@ -318,7 +319,8 @@
     "dest": "lessons/p2_l11_fin_periodo/img/p2_l11_caida_constantinopla.webp",
     "alt": "Caída de Constantinopla en 1453",
     "query": "caída de Constantinopla 1453, pintura histórica",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p3_l02_laud",
@@ -334,7 +336,8 @@
     "dest": "lessons/p3_l02_instrumentos/img/p3_l02_viola_da_gamba.webp",
     "alt": "Viola da gamba renacentista",
     "query": "viola da gamba renacentista, instrumento de cuerda con trastes tocado entre las piernas",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p3_l02_clavicembalo",
@@ -342,7 +345,8 @@
     "dest": "lessons/p3_l02_instrumentos/img/p3_l02_clavicembalo.webp",
     "alt": "Clavicémbalo renacentista",
     "query": "clavicémbalo o virginal renacentista, instrumento de teclado de cuerda pulsada, siglo XVI",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p3_l02_chirimia",
@@ -350,7 +354,8 @@
     "dest": "lessons/p3_l02_instrumentos/img/p3_l02_chirimia.webp",
     "alt": "Chirimía renacentista",
     "query": "chirimía renacentista, instrumento de viento de caña doble usado por consorts de ministriles",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "cuadrada"
   },
   {
     "id": "p3_l04_petrucci",
@@ -358,7 +363,8 @@
     "dest": "lessons/p3_l04_hitos/img/p3_l04_petrucci.webp",
     "alt": "Partitura impresa por Ottaviano Petrucci",
     "query": "partitura antigua impresa por Ottaviano Petrucci, música impresa hacia 1501, Venecia",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p3_l05_dufay_retrato",
@@ -366,7 +372,8 @@
     "dest": "lessons/p3_l05_guillaume_dufay/img/p3_l05_dufay_retrato.webp",
     "alt": "Retrato de Guillaume Dufay",
     "query": "retrato histórico o manuscrito iluminado de Guillaume Dufay, compositor renacentista del siglo XV",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p3_l06_josquin_retrato",

@@ -98,6 +98,8 @@ def main() -> int:
     for archivo in sorted(INCOMING.iterdir()):
         if not archivo.is_file():
             continue
+        if archivo.name.startswith("."):
+            continue  # basura del sistema: .DS_Store, .gitkeep, etc.
         stem = archivo.stem
         entry = pendientes.get(stem)
         if entry is None:
