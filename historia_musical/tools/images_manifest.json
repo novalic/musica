@@ -167,7 +167,8 @@
     "dest": "lessons/p2_l02_instrumentos/img/p2_l02_laud_medieval.webp",
     "alt": "Laúd medieval",
     "query": "laúd medieval, instrumento de cuerda con caja en forma de pera",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p2_l02_flauta_dulce",
