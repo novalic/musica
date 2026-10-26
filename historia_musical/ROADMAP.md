@@ -12,29 +12,29 @@ lección de figuras menores, obras clave / guía de escucha, y contexto históri
 
 | # | Lección | Qué aprendés | Estado |
 |---|---------|--------------|--------|
-| 1.1 | Contexto de inicio | Mesopotamia y Egipto, el rol religioso y social de la música, por qué nace como oficio | ⏳ |
-| 1.2 | Instrumentos de la antigüedad | lira, aulos, kithara, arpas e instrumentos egipcios/mesopotámicos, cómo suenan | ⏳ |
-| 1.3 | La música de Grecia y Roma | modos griegos, teoría musical temprana, música en el teatro y el ritual | ⏳ |
-| 1.4 | Hitos importantes | el himno hurrita de Nikkal, el epitafio de Seikilos, los tratados de Pitágoras y Aristóxeno | ⏳ |
-| 1.5 | Teóricos y figuras conocidas | Pitágoras, Aristóxeno, Boecio: no hay compositores individuales conocidos, pero sí teoría | ⏳ |
-| 1.6 | Obras clave y guía de escucha | qué buscar y escuchar: reconstrucciones modernas de música griega y mesopotámica | ⏳ |
-| 1.7 | Fin del período | caída del Imperio Romano, cristianización, el puente hacia la Edad Media | ⏳ |
+| 1.1 | Contexto de inicio | Mesopotamia y Egipto, el rol religioso y social de la música, por qué nace como oficio | ✅ |
+| 1.2 | Instrumentos de la antigüedad | lira, aulos, kithara, arpas e instrumentos egipcios/mesopotámicos, cómo suenan | ✅ |
+| 1.3 | La música de Grecia y Roma | modos griegos, teoría musical temprana, música en el teatro y el ritual | ✅ |
+| 1.4 | Hitos importantes | el himno hurrita de Nikkal, el epitafio de Seikilos, los tratados de Pitágoras y Aristóxeno | ✅ |
+| 1.5 | Teóricos y figuras conocidas | Pitágoras, Aristóxeno, Boecio: no hay compositores individuales conocidos, pero sí teoría | ✅ |
+| 1.6 | Obras clave y guía de escucha | qué buscar y escuchar: reconstrucciones modernas de música griega y mesopotámica | ✅ |
+| 1.7 | Fin del período | caída del Imperio Romano, cristianización, el puente hacia la Edad Media | ✅ |
 
 ## Fase 2 — Música medieval
 
 | # | Lección | Qué aprendés | Estado |
 |---|---------|--------------|--------|
-| 2.1 | Contexto de inicio | caída de Roma, feudalismo, la Iglesia como centro cultural y productor de música | ⏳ |
-| 2.2 | Instrumentos medievales | vihuela de rueda, laúd, flautas, salterio, campanas, el órgano temprano | ⏳ |
-| 2.3 | La música del período | monofonía, canto gregoriano, modos eclesiásticos, cómo suena | ⏳ |
-| 2.4 | Forma y notación | notación neumática, Guido d'Arezzo y el pentagrama, organum, notación mensural | ⏳ |
-| 2.5 | Hitos importantes | la escuela de Notre Dame, el Ars Nova, la peste negra y su efecto en la cultura | ⏳ |
-| 2.6 | Hildegard de Bingen | biografía y obra | ⏳ |
-| 2.7 | Léonin y Pérotin | biografía y obra, la escuela de Notre Dame | ⏳ |
-| 2.8 | Guillaume de Machaut | biografía y obra, el Ars Nova | ⏳ |
-| 2.9 | Figuras menores | trovadores y troveros: Guillermo de Aquitania, Bernart de Ventadorn, Adam de la Halle | ⏳ |
-| 2.10 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ⏳ |
-| 2.11 | Fin del período | el Renacimiento temprano, cambios sociales y culturales que cierran la Edad Media | ⏳ |
+| 2.1 | Contexto de inicio | caída de Roma, feudalismo, la Iglesia como centro cultural y productor de música | ✅ |
+| 2.2 | Instrumentos medievales | vihuela de rueda, laúd, flautas, salterio, campanas, el órgano temprano | ✅ |
+| 2.3 | La música del período | monofonía, canto gregoriano, modos eclesiásticos, cómo suena | ✅ |
+| 2.4 | Forma y notación | notación neumática, Guido d'Arezzo y el pentagrama, organum, notación mensural | ✅ |
+| 2.5 | Hitos importantes | la escuela de Notre Dame, el Ars Nova, la peste negra y su efecto en la cultura | ✅ |
+| 2.6 | Hildegard de Bingen | biografía y obra | ✅ |
+| 2.7 | Léonin y Pérotin | biografía y obra, la escuela de Notre Dame | ✅ |
+| 2.8 | Guillaume de Machaut | biografía y obra, el Ars Nova | ✅ |
+| 2.9 | Figuras menores | trovadores y troveros: Guillermo de Aquitania, Bernart de Ventadorn, Adam de la Halle | ✅ |
+| 2.10 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ✅ |
+| 2.11 | Fin del período | el Renacimiento temprano, cambios sociales y culturales que cierran la Edad Media | ✅ |
 
 ## Fase 3 — Renacimiento
 
