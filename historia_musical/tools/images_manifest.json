@@ -5,7 +5,8 @@
     "dest": "lessons/p1_l01_contexto_inicio/img/p1_l01_musicos_egipto.webp",
     "alt": "Mural egipcio con músicos y arpista",
     "query": "pintura mural egipcia con arpista y músicos, tumba de Tebas o Saqqara",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p1_l02_lira",
@@ -13,7 +14,8 @@
     "dest": "lessons/p1_l02_instrumentos/img/p1_l02_lira.webp",
     "alt": "Lira antigua de cuerdas",
     "query": "lira mesopotámica o griega antigua, instrumento de cuerda con brazos curvos",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "cuadrada"
   },
   {
     "id": "p1_l02_arpa_ur",
@@ -21,7 +23,8 @@
     "dest": "lessons/p1_l02_instrumentos/img/p1_l02_arpa_ur.webp",
     "alt": "Arpa/lira de Ur con cabeza de toro dorada",
     "query": "Arpa de Ur, lira del toro dorado, Museo Británico o Penn Museum",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p1_l02_kithara",
@@ -29,7 +32,8 @@
     "dest": "lessons/p1_l02_instrumentos/img/p1_l02_kithara.webp",
     "alt": "Kithara griega representada en cerámica",
     "query": "kithara griega antigua, vaso griego con citarista tocando",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p1_l02_aulos",
@@ -37,7 +41,8 @@
     "dest": "lessons/p1_l02_instrumentos/img/p1_l02_aulos.webp",
     "alt": "Aulos griego, flauta doble de lengüeta",
     "query": "aulos griego antiguo, instrumento de viento doble con lengüeta",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p1_l02_buccina",
@@ -45,7 +50,8 @@
     "dest": "lessons/p1_l02_instrumentos/img/p1_l02_buccina.webp",
     "alt": "Buccina romana, trompa militar",
     "query": "buccina o cornu romano, trompa militar romana enrollada",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p1_l02_sistro",
@@ -53,7 +59,8 @@
     "dest": "lessons/p1_l02_instrumentos/img/p1_l02_sistro.webp",
     "alt": "Sistro egipcio",
     "query": "sistro egipcio, instrumento de percusión ritual con discos metálicos",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p1_l03_vaso_griego_musico",
@@ -61,7 +68,8 @@
     "dest": "lessons/p1_l03_musica_grecia_roma/img/p1_l03_vaso_griego_musico.webp",
     "alt": "Vasija griega con escena musical",
     "query": "vaso griego antiguo con escena de músico tocando kithara o aulos",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p1_l04_excavacion_ur",
@@ -69,7 +77,8 @@
     "dest": "lessons/p1_l04_hitos/img/p1_l04_excavacion_ur.webp",
     "alt": "Excavación arqueológica de Ur con instrumentos",
     "query": "excavación del Cementerio Real de Ur, Leonard Woolley, liras encontradas",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p1_l04_tablilla_nikkal",
@@ -77,7 +86,8 @@
     "dest": "lessons/p1_l04_hitos/img/p1_l04_tablilla_nikkal.webp",
     "alt": "Tablilla cuneiforme del Himno a Nikkal",
     "query": "tablilla cuneiforme hurrita de Ugarit, himno a Nikkal h.6",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p1_l05_pitagoras",
@@ -85,7 +95,8 @@
     "dest": "lessons/p1_l05_teoricos_figuras/img/p1_l05_pitagoras.webp",
     "alt": "Representación clásica de Pitágoras",
     "query": "busto o pintura clásica de Pitágoras",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p1_l05_aristoxeno",
@@ -93,7 +104,8 @@
     "dest": "lessons/p1_l05_teoricos_figuras/img/p1_l05_aristoxeno.webp",
     "alt": "Representación de Aristóxeno de Tarento",
     "query": "busto o grabado de Aristóxeno de Tarento, filósofo griego teórico musical",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p1_l05_boecio",
@@ -101,7 +113,8 @@
     "dest": "lessons/p1_l05_teoricos_figuras/img/p1_l05_boecio.webp",
     "alt": "Manuscrito medieval con Boecio",
     "query": "manuscrito medieval iluminado de Boecio enseñando o escribiendo, Consolación de la filosofía",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p1_l06_epitafio_seikilos",
@@ -109,7 +122,8 @@
     "dest": "lessons/p1_l06_obras_clave/img/p1_l06_epitafio_seikilos.webp",
     "alt": "Estela del Epitafio de Seikilos",
     "query": "estela epitafio de Seikilos, inscripción griega con notación musical",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p1_l07_ruinas_foro_romano",
@@ -117,7 +131,8 @@
     "dest": "lessons/p1_l07_fin_periodo/img/p1_l07_ruinas_foro_romano.webp",
     "alt": "Ruinas del Foro Romano",
     "query": "ruinas del Foro Romano o caída de Roma, pintura o fotografía",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "cuadrada"
   },
   {
     "id": "p2_l01_monasterio_medieval",
@@ -125,7 +140,8 @@
     "dest": "lessons/p2_l01_contexto_inicio/img/p2_l01_monasterio_medieval.webp",
     "alt": "Monasterio medieval europeo",
     "query": "monasterio medieval europeo, abadía benedictina, foto o pintura",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l02_organo_tubos",
@@ -133,7 +149,8 @@
     "dest": "lessons/p2_l02_instrumentos/img/p2_l02_organo_tubos.webp",
     "alt": "Órgano de tubos medieval",
     "query": "órgano de tubos medieval en una catedral, con fuelles",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l02_vihuela_rueda",
@@ -141,7 +158,8 @@
     "dest": "lessons/p2_l02_instrumentos/img/p2_l02_vihuela_rueda.webp",
     "alt": "Vihuela de rueda (zanfona) medieval",
     "query": "vihuela de rueda medieval, zanfona, instrumento con manivela",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l02_laud_medieval",
@@ -149,7 +167,8 @@
     "dest": "lessons/p2_l02_instrumentos/img/p2_l02_laud_medieval.webp",
     "alt": "Laúd medieval",
     "query": "laúd medieval, instrumento de cuerda con caja en forma de pera",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l02_flauta_dulce",
@@ -157,7 +176,8 @@
     "dest": "lessons/p2_l02_instrumentos/img/p2_l02_flauta_dulce.webp",
     "alt": "Flauta dulce medieval",
     "query": "flauta dulce o caramillo medieval, ilustración o manuscrito",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p2_l02_salterio",
@@ -165,7 +185,8 @@
     "dest": "lessons/p2_l02_instrumentos/img/p2_l02_salterio.webp",
     "alt": "Salterio medieval",
     "query": "salterio medieval, instrumento de cuerda trapezoidal",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l02_campanas",
@@ -173,7 +194,8 @@
     "dest": "lessons/p2_l02_instrumentos/img/p2_l02_campanas.webp",
     "alt": "Campanas medievales",
     "query": "campanas de iglesia medievales o carillón",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l03_manuscrito_gregoriano",
@@ -181,7 +203,8 @@
     "dest": "lessons/p2_l03_la_musica_del_periodo/img/p2_l03_manuscrito_gregoriano.webp",
     "alt": "Manuscrito de canto gregoriano",
     "query": "manuscrito de canto gregoriano con neumas, página iluminada",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p2_l04_neumas_antiguos",
@@ -189,7 +212,8 @@
     "dest": "lessons/p2_l04_notacion_forma/img/p2_l04_neumas_antiguos.webp",
     "alt": "Neumas medievales sin pentagrama",
     "query": "notación de neumas antiguos sin líneas, manuscrito medieval temprano",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l04_guido_arezzo",
@@ -197,7 +221,8 @@
     "dest": "lessons/p2_l04_notacion_forma/img/p2_l04_guido_arezzo.webp",
     "alt": "Guido d'Arezzo y su sistema de notación",
     "query": "Guido d'Arezzo, retrato o manuscrito con sistema de líneas/pentagrama",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p2_l05_carlomagno",
@@ -205,7 +230,8 @@
     "dest": "lessons/p2_l05_hitos/img/p2_l05_carlomagno.webp",
     "alt": "Coronación de Carlomagno",
     "query": "coronación de Carlomagno, pintura histórica",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l05_notre_dame",
@@ -213,7 +239,8 @@
     "dest": "lessons/p2_l05_hitos/img/p2_l05_notre_dame.webp",
     "alt": "Catedral de Notre Dame de París",
     "query": "fotografía de la catedral de Notre Dame de París",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l06_hildegard_bingen",
@@ -221,7 +248,8 @@
     "dest": "lessons/p2_l06_hildegard_de_bingen/img/p2_l06_hildegard_bingen.webp",
     "alt": "Hildegard de Bingen en una miniatura medieval",
     "query": "Hildegard de Bingen, miniatura del manuscrito Scivias recibiendo la visión",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p2_l07_manuscrito_notre_dame",
@@ -229,7 +257,8 @@
     "dest": "lessons/p2_l07_leonin_perotin/img/p2_l07_manuscrito_notre_dame.webp",
     "alt": "Página manuscrita del Magnus Liber Organi",
     "query": "página del manuscrito Magnus Liber Organi, Florencia Plut 29.1",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p2_l08_machaut_retrato",
@@ -237,7 +266,8 @@
     "dest": "lessons/p2_l08_guillaume_de_machaut/img/p2_l08_machaut_retrato.webp",
     "alt": "Retrato de Guillaume de Machaut en manuscrito",
     "query": "retrato iluminado de Guillaume de Machaut en manuscrito medieval",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "horizontal"
   },
   {
     "id": "p2_l09_guillermo_aquitania",
@@ -245,7 +275,8 @@
     "dest": "lessons/p2_l09_figuras_menores/img/p2_l09_guillermo_aquitania.webp",
     "alt": "Guillermo de Aquitania",
     "query": "miniatura o retrato de Guillermo IX de Aquitania, trovador",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "cuadrada"
   },
   {
     "id": "p2_l09_bernart_ventadorn",
@@ -253,7 +284,8 @@
     "dest": "lessons/p2_l09_figuras_menores/img/p2_l09_bernart_ventadorn.webp",
     "alt": "Bernart de Ventadorn en un cancionero medieval",
     "query": "miniatura de Bernart de Ventadorn en cancionero (chansonnier) provenzal",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p2_l09_adam_de_la_halle",
@@ -261,7 +293,8 @@
     "dest": "lessons/p2_l09_figuras_menores/img/p2_l09_adam_de_la_halle.webp",
     "alt": "Adam de la Halle en un manuscrito",
     "query": "miniatura de Adam de la Halle en manuscrito medieval",
-    "status": "pending"
+    "status": "done",
+    "orientacion": "vertical"
   },
   {
     "id": "p2_l10_manuscrito_rondeau",

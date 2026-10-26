@@ -7,9 +7,9 @@ carpeta de la leccion que les corresponde, segun tools/images_manifest.json.
 Cada archivo en images_incoming/ se identifica por su nombre de archivo SIN
 extension (el "id" del manifest), sin importar que extension tenga
 (.jpg, .png, .heic convertido a jpg/png, etc. - cualquier formato que lea
-Pillow). Al procesarlo con exito, se marca el id como "done" en el manifest
-y el archivo original se mueve a images_incoming/_procesadas/ (no se borra,
-para tener un respaldo).
+Pillow). Al procesarlo con exito, se marca el id como "done" en el manifest y el
+archivo original se BORRA (no se guarda ningun respaldo: los originales,
+con su metadata, nunca deben quedar en el repo ni en ningun lado).
 
 Uso:  make images
       (o: uv run --no-project --with pillow python3 tools/optimize_images.py)
@@ -18,7 +18,6 @@ from __future__ import annotations
 
 import io
 import json
-import shutil
 import sys
 from pathlib import Path
 
@@ -27,7 +26,6 @@ from PIL import Image, UnidentifiedImageError
 ROOT = Path(__file__).resolve().parent.parent
 MANIFEST = ROOT / "tools" / "images_manifest.json"
 INCOMING = ROOT / "tools" / "images_incoming"
-PROCESADAS = INCOMING / "_procesadas"
 
 MAX_LADO_LARGO = 1600  # px: lado mas largo de una imagen horizontal/vertical
 MAX_LADO_CUADRADA = 1400  # px: lado de una imagen cuadrada
@@ -90,7 +88,6 @@ def main() -> int:
     pendientes = {e["id"]: e for e in manifest if e["status"] == "pending"}
 
     INCOMING.mkdir(parents=True, exist_ok=True)
-    PROCESADAS.mkdir(parents=True, exist_ok=True)
 
     if not pendientes:
         print("No hay imagenes pendientes en el manifest.")
@@ -116,7 +113,7 @@ def main() -> int:
         dest.write_bytes(data)
         entry["status"] = "done"
         entry["orientacion"] = orient
-        shutil.move(str(archivo), str(PROCESADAS / archivo.name))
+        archivo.unlink()
         procesadas.append(stem)
 
     MANIFEST.write_text(
