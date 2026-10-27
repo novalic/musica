@@ -21,12 +21,15 @@ rey de una Italia unificada). Murió en Milán en 1901, convertido en una figura
 
 ## Obra
 
-Entre sus óperas más célebres se encuentran "Rigoletto", "La Traviata", "Il Trovatore" (estas
-tres, compuestas en un período de apenas dos años, se conocen a veces como su "trilogía popular"),
-"Aida" (encargada para la inauguración de la ópera de El Cairo, con un tema ambientado en el
-antiguo Egipto) y "Otello" y "Falstaff" (ambas basadas en obras de Shakespeare, compuestas ya muy
-entrado en años, con un refinamiento dramático y orquestal todavía mayor que el de sus obras más
-jóvenes).
+Entre sus óperas más célebres se encuentran "Rigoletto", "La Traviata", "Il Trovatore"
+(estas tres, compuestas en un período de apenas dos años, se conocen a veces como su
+"trilogía popular"), "Aida" (encargada por el kedive de Egipto para la ópera de El Cairo
+—aunque, al contrario de una creencia popular, no para la inauguración misma de esa
+sala, que ya se había hecho en 1869 con "Rigoletto": Verdi rechazó escribir el himno de
+esa inauguración y recién aceptó componer "Aida" después, estrenándose en El Cairo en
+1871—, con un tema ambientado en el antiguo Egipto) y "Otello" y "Falstaff" (ambas
+basadas en obras de Shakespeare, compuestas ya muy entrado en años, con un refinamiento
+dramático y orquestal todavía mayor que el de sus obras más jóvenes).
 
 **Cómo suena su música:** combina melodías vocales de una fuerza dramática y una inmediatez
 emotiva extraordinarias (muchas de sus arias se volvieron, ya en su época, piezas populares

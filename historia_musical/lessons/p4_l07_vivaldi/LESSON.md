@@ -23,8 +23,8 @@ toda Europa gracias, en gran parte, a la música que el propio Vivaldi componía
 Vivaldi es, sin ninguna duda, el compositor más identificado con el concierto barroco (lección
 4.4): escribió más de 500, la mayoría para violín solista, aunque también para otros
 instrumentos (fagot, flauta, mandolina, y combinaciones muy variadas). Su obra más famosa,
-"Las cuatro estaciones" (publicada en 1725, dentro de una colección mayor llamada "El estro
-armónico"), es un conjunto de cuatro conciertos para violín, cada uno asociado a una estación del
+"Las cuatro estaciones" (publicada en 1725, dentro de una colección mayor llamada "Il
+cimento dell'armonia e dell'inventione", Op. 8), es un conjunto de cuatro conciertos para violín, cada uno asociado a una estación del
 año, que describe musicalmente escenas concretas (una tormenta de verano, el hielo del invierno,
 pájaros cantando en primavera) usando recursos que hoy llamaríamos "música descriptiva" o
 "programática", apoyados además por poemas (probablemente escritos por el propio Vivaldi) que

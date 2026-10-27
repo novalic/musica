@@ -9,8 +9,10 @@ Romanticismo y uno de los inventores del poema sinfónico.
 
 ![Retrato de Franz Liszt](img/p6_l06_liszt_retrato.webp)
 
-Franz Liszt nació en 1811 en Raiding, en lo que hoy es Austria (entonces parte del Imperio
-Austrohúngaro, en una zona de población mayoritariamente húngara). Niño prodigio del piano, se
+Franz Liszt nació en 1811 en Raiding, en lo que hoy es Austria (entonces parte del Reino de
+Hungría, dentro del Imperio Austríaco de los Habsburgo —el Imperio Austrohúngaro, tal como lo
+conocemos, recién se formaría en 1867—, en una zona de población mayoritariamente húngara). Niño
+prodigio del piano, se
 formó en Viena y luego en París, donde, tras escuchar al violinista virtuoso Niccolò Paganini
 (célebre por un nivel de técnica instrumental hasta entonces inédito), decidió convertirse en el
 equivalente pianístico de esa proeza virtuosa. Durante las décadas de 1830 y 1840, se transformó en

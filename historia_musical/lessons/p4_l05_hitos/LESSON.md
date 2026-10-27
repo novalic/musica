@@ -31,9 +31,11 @@ Ya la mencionamos en las lecciones 3.11 y 4.1: la Guerra de los Treinta Años es
 devastador, originado en tensiones religiosas entre católicos y protestantes, que termina
 involucrando a casi todas las potencias europeas y que causa, según algunas estimaciones, la
 muerte de hasta un tercio de la población de algunas regiones de Alemania. El tratado que pone
-fin a la guerra, la Paz de Westfalia (1648), reorganiza el mapa político y religioso de Europa y
-establece, por primera vez de forma explícita, el principio de que cada territorio podía
-determinar su propia religión oficial, consolidando de forma definitiva la división religiosa que
+fin a la guerra, la Paz de Westfalia (1648), reorganiza el mapa político y religioso de Europa.
+El principio de que cada territorio podía determinar su propia religión oficial (conocido como
+"cuius regio, eius religio") ya se había establecido antes, en la Paz de Augsburgo de 1555, para
+católicos y luteranos; lo que hace la Paz de Westfalia es extender ese principio también a los
+calvinistas y consolidar de forma definitiva, tras décadas de guerra, la división religiosa que
 había empezado con la Reforma (lección 3.4).
 
 ## El reinado de Luis XIV y Versalles (1643-1715)
@@ -77,9 +79,10 @@ todavía el lenguaje técnico central de la música culta europea.
    pudiera pagar una entrada, no solo los invitados de una corte.
 3. Fue un conflicto devastador originado en tensiones religiosas entre católicos y protestantes,
    que involucró a casi todas las potencias europeas y causó pérdidas humanas enormes. El tratado
-   que le puso fin, la Paz de Westfalia de 1648, estableció que cada territorio podía determinar
-   su propia religión oficial, consolidando de forma definitiva la división religiosa iniciada con
-   la Reforma.
+   que le puso fin, la Paz de Westfalia de 1648, extendió a los calvinistas el principio de que
+   cada territorio podía determinar su propia religión oficial (ya establecido antes, en 1555, por
+   la Paz de Augsburgo para católicos y luteranos) y consolidó de forma definitiva, tras décadas de
+   guerra, la división religiosa iniciada con la Reforma.
 4. El palacio de Versalles se convirtió en el modelo de mecenazgo artístico centralizado alrededor
    de un único monarca, y compositores como Jean-Baptiste Lully trabajaron directamente al
    servicio de esa maquinaria de propaganda real, componiendo música para los bailes, ceremonias y

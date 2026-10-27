@@ -29,8 +29,10 @@ herramienta para comunicarse con los dioses. Los templos tenían músicos de pla
 estado-templo, con una jerarquía interna tan formal como la de los sacerdotes. Había instrumentos
 de cuerda (el arpa y la lira), de percusión (tambores de marco) y de viento (flautas dobles).
 
-Un dato que suele sorprender: en 1950 se excavó en Ur (sur de Irak) una tablilla de arcilla con
-notación cuneiforme que los especialistas identificaron como instrucciones de afinación de arpa, y
+Un dato que suele sorprender: entre las tablillas de arcilla halladas durante las excavaciones de
+Leonard Woolley en Ur (sur de Irak, entre 1922 y 1934) hay una con notación cuneiforme que los
+especialistas identificaron recién en 1959 como instrucciones de afinación de un instrumento de
+cuerda, y
 hay una tablilla hurrita (de Ugarit, actual Siria, hacia 1400 a.C.) conocida como el "Himno a
 Nikkal" que algunos musicólogos reconstruyeron como una melodía completa, con su letra en honor a
 la diosa de la luna Nikkal. Es, probablemente, la pieza musical más antigua del mundo que se puede

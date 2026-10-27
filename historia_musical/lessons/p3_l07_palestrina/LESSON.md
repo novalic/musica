@@ -9,7 +9,7 @@ la Iglesia católica ante las dudas sobre la polifonía que vimos en el Concilio
 
 ![Retrato de Palestrina](img/p3_l07_palestrina_retrato.webp)
 
-Giovanni Pierluigi da Palestrina nació alrededor de 1525 en la ciudad italiana de Palestina (de
+Giovanni Pierluigi da Palestrina nació alrededor de 1525 en la ciudad italiana de Palestrina (de
 donde toma su nombre artístico), cerca de Roma, y murió en Roma en 1594. Pasó casi toda su carrera
 en instituciones musicales romanas de primer nivel: fue maestro de capilla en la Basílica de San
 Juan de Letrán, en Santa María la Mayor, y finalmente en la Basílica de San Pedro, el puesto

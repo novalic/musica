@@ -68,8 +68,11 @@ renacentistas, como la referencia filosófica obligada sobre el poder moral de l
 
 ## "De institutione musica" de Boecio (~500 d.C.)
 
-Escrito por el filósofo romano Boecio, poco antes de su ejecución por orden del rey ostrogodo
-Teodorico, este tratado traduce y sistematiza en latín la teoría musical griega (incluidas las
+Escrito por el filósofo romano Boecio en sus años jóvenes, cuando todavía no había entrado en la
+política activa del reino ostrogodo (la ejecución por orden del rey Teodorico, que esperó en
+prisión mientras escribía su libro más conocido, "Consolación de la filosofía", recién le iba a
+llegar casi dos décadas más tarde), este tratado traduce y sistematiza en latín la teoría musical
+griega (incluidas las
 ideas de Pitágoras sobre los intervalos). Se convirtió en el libro de texto de música obligatorio
 en las universidades medievales durante casi mil años, y es el puente directo entre la teoría
 musical de la Antigüedad y la que vas a estudiar en la Fase 2 (Música medieval). Marca, de hecho,
