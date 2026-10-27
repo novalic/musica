@@ -71,7 +71,7 @@ escuchar la misma canción dos veces exactamente igual. La música:
 |---|---|---|
 | Flautas de hueso del Paleolítico (Hohle Fels) | 35.000-40.000 a.C. | evidencia más antigua de instrumentos musicales fabricados |
 | Primeras ciudades-templo en Sumeria | 3500-3000 a.C. | aparecen los primeros músicos profesionales documentados |
-| Arpa de Ur (tumba real) | ~2500 a.C. | instrumento de cuerda más antiguo conservado físicamente |
+| Lira de Ur (tumba real) | ~2500 a.C. | instrumento de cuerda más antiguo conservado físicamente |
 | Pinturas de músicos en tumbas egipcias | ~2500-1500 a.C. | documentan el rol social y el prestigio del músico |
 | Himno a Nikkal (tablilla de Ugarit) | ~1400 a.C. | pieza musical más antigua con notación que se intentó reconstruir |
 

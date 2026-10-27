@@ -21,8 +21,8 @@
     "id": "p1_l02_arpa_ur",
     "lesson": "1.2",
     "dest": "lessons/p1_l02_instrumentos/img/p1_l02_arpa_ur.webp",
-    "alt": "Arpa/lira de Ur con cabeza de toro dorada",
-    "query": "Arpa de Ur, lira del toro dorado, Museo Británico o Penn Museum",
+    "alt": "Arpa antigua representada en el arte egipcio",
+    "query": "pintura o relieve egipcio con arpista tocando un arpa de arco grande (no es la Lira de Ur, esa es otro instrumento)",
     "status": "done",
     "orientacion": "vertical"
   },
@@ -526,6 +526,262 @@
     "dest": "lessons/p4_l10_figuras_menores/img/p4_l10_telemann_retrato.webp",
     "alt": "Retrato de Georg Philipp Telemann",
     "query": "retrato histórico de Georg Philipp Telemann, compositor alemán del siglo XVIII",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l01_ilustracion",
+    "lesson": "5.1",
+    "dest": "lessons/p5_l01_contexto_inicio/img/p5_l01_ilustracion.webp",
+    "alt": "Salón ilustrado del siglo XVIII",
+    "query": "salón ilustrado francés del siglo XVIII, tertulia filosófica o musical",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l02_fortepiano",
+    "lesson": "5.2",
+    "dest": "lessons/p5_l02_instrumentos/img/p5_l02_fortepiano.webp",
+    "alt": "Fortepiano clásico",
+    "query": "fortepiano clásico del siglo XVIII, instrumento de teclado de la época de Mozart",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l02_orquesta_clasica",
+    "lesson": "5.2",
+    "dest": "lessons/p5_l02_instrumentos/img/p5_l02_orquesta_clasica.webp",
+    "alt": "Orquesta clásica de cámara",
+    "query": "orquesta de cámara clásica pequeña, siglo XVIII",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l04_cuarteto_cuerdas",
+    "lesson": "5.4",
+    "dest": "lessons/p5_l04_forma_vocabulario/img/p5_l04_cuarteto_cuerdas.webp",
+    "alt": "Cuarteto de cuerdas clásico",
+    "query": "cuarteto de cuerdas clásico, dos violines viola y violonchelo, grabado o pintura de época",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l05_revolucion_francesa",
+    "lesson": "5.5",
+    "dest": "lessons/p5_l05_hitos/img/p5_l05_revolucion_francesa.webp",
+    "alt": "La Revolución Francesa",
+    "query": "pintura histórica de la Revolución Francesa, toma de la Bastilla o similar",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l06_haydn_retrato",
+    "lesson": "5.6",
+    "dest": "lessons/p5_l06_haydn/img/p5_l06_haydn_retrato.webp",
+    "alt": "Retrato de Joseph Haydn",
+    "query": "retrato clásico de Joseph Haydn",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l07_mozart_retrato",
+    "lesson": "5.7",
+    "dest": "lessons/p5_l07_mozart/img/p5_l07_mozart_retrato.webp",
+    "alt": "Retrato de Wolfgang Amadeus Mozart",
+    "query": "retrato clásico de Wolfgang Amadeus Mozart",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l08_beethoven_retrato",
+    "lesson": "5.8",
+    "dest": "lessons/p5_l08_beethoven/img/p5_l08_beethoven_retrato.webp",
+    "alt": "Retrato de Ludwig van Beethoven",
+    "query": "retrato clásico de Ludwig van Beethoven",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l09_cpe_bach",
+    "lesson": "5.9",
+    "dest": "lessons/p5_l09_figuras_menores/img/p5_l09_cpe_bach.webp",
+    "alt": "Retrato de Carl Philipp Emanuel Bach",
+    "query": "retrato de Carl Philipp Emanuel Bach, compositor hijo de J.S. Bach",
+    "status": "pending"
+  },
+  {
+    "id": "p5_l11_congreso_viena",
+    "lesson": "5.11",
+    "dest": "lessons/p5_l11_fin_periodo/img/p5_l11_congreso_viena.webp",
+    "alt": "Congreso de Viena",
+    "query": "pintura histórica del Congreso de Viena 1814-1815",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l01_pintura_romantica",
+    "lesson": "6.1",
+    "dest": "lessons/p6_l01_contexto_inicio/img/p6_l01_pintura_romantica.webp",
+    "alt": "Pintura romántica de paisaje",
+    "query": "pintura romántica de paisaje, por ejemplo de Caspar David Friedrich",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l02_piano_moderno",
+    "lesson": "6.2",
+    "dest": "lessons/p6_l02_instrumentos/img/p6_l02_piano_moderno.webp",
+    "alt": "Piano de cola romántico",
+    "query": "piano de cola romántico del siglo XIX, marco de hierro",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l02_orquesta_ampliada",
+    "lesson": "6.2",
+    "dest": "lessons/p6_l02_instrumentos/img/p6_l02_orquesta_ampliada.webp",
+    "alt": "Orquesta romántica ampliada",
+    "query": "orquesta sinfónica romántica grande del siglo XIX",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l04_casa_opera",
+    "lesson": "6.4",
+    "dest": "lessons/p6_l04_hitos/img/p6_l04_casa_opera.webp",
+    "alt": "Casa de ópera del siglo XIX",
+    "query": "interior de una casa de ópera del siglo XIX, como La Scala o la Ópera de Viena",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l05_chopin_retrato",
+    "lesson": "6.5",
+    "dest": "lessons/p6_l05_chopin/img/p6_l05_chopin_retrato.webp",
+    "alt": "Retrato de Frédéric Chopin",
+    "query": "retrato romántico de Frédéric Chopin",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l06_liszt_retrato",
+    "lesson": "6.6",
+    "dest": "lessons/p6_l06_liszt/img/p6_l06_liszt_retrato.webp",
+    "alt": "Retrato de Franz Liszt",
+    "query": "retrato romántico de Franz Liszt",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l07_wagner_retrato",
+    "lesson": "6.7",
+    "dest": "lessons/p6_l07_wagner/img/p6_l07_wagner_retrato.webp",
+    "alt": "Retrato de Richard Wagner",
+    "query": "retrato de Richard Wagner",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l08_verdi_retrato",
+    "lesson": "6.8",
+    "dest": "lessons/p6_l08_verdi/img/p6_l08_verdi_retrato.webp",
+    "alt": "Retrato de Giuseppe Verdi",
+    "query": "retrato de Giuseppe Verdi",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l09_brahms_retrato",
+    "lesson": "6.9",
+    "dest": "lessons/p6_l09_brahms/img/p6_l09_brahms_retrato.webp",
+    "alt": "Retrato de Johannes Brahms",
+    "query": "retrato de Johannes Brahms",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l10_tchaikovsky_retrato",
+    "lesson": "6.10",
+    "dest": "lessons/p6_l10_tchaikovsky/img/p6_l10_tchaikovsky_retrato.webp",
+    "alt": "Retrato de Piotr Ilich Tchaikovsky",
+    "query": "retrato de Piotr Ilich Tchaikovsky",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l11_schumann_retrato",
+    "lesson": "6.11",
+    "dest": "lessons/p6_l11_figuras_menores/img/p6_l11_schumann_retrato.webp",
+    "alt": "Retrato de Robert Schumann",
+    "query": "retrato de Robert Schumann",
+    "status": "pending"
+  },
+  {
+    "id": "p6_l13_pintura_impresionista",
+    "lesson": "6.13",
+    "dest": "lessons/p6_l13_fin_periodo/img/p6_l13_pintura_impresionista.webp",
+    "alt": "Pintura impresionista",
+    "query": "pintura impresionista francesa, por ejemplo de Claude Monet",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l01_primera_guerra",
+    "lesson": "7.1",
+    "dest": "lessons/p7_l01_contexto_inicio/img/p7_l01_primera_guerra.webp",
+    "alt": "Trincheras de la Primera Guerra Mundial",
+    "query": "fotografía histórica de trincheras de la Primera Guerra Mundial",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l02_orquesta_ampliada",
+    "lesson": "7.2",
+    "dest": "lessons/p7_l02_instrumentos_orquesta/img/p7_l02_orquesta_ampliada.webp",
+    "alt": "Orquesta sinfónica ampliada de gran formato",
+    "query": "orquesta sinfónica de gran formato de principios del siglo XX, estilo Mahler",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l04_serie_dodecafonica",
+    "lesson": "7.4",
+    "dest": "lessons/p7_l04_forma_vocabulario/img/p7_l04_serie_dodecafonica.webp",
+    "alt": "Serie dodecafónica en un manuscrito musical",
+    "query": "manuscrito musical con una serie dodecafónica o notación de música atonal",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l05_consagracion_primavera",
+    "lesson": "7.5",
+    "dest": "lessons/p7_l05_hitos/img/p7_l05_consagracion_primavera.webp",
+    "alt": "Programa o escena de los Ballets Russes",
+    "query": "Ballets Russes, La consagración de la primavera 1913, programa o fotografía de escena",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l06_debussy_retrato",
+    "lesson": "7.6",
+    "dest": "lessons/p7_l06_debussy/img/p7_l06_debussy_retrato.webp",
+    "alt": "Retrato de Claude Debussy",
+    "query": "retrato de Claude Debussy",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l07_stravinsky_retrato",
+    "lesson": "7.7",
+    "dest": "lessons/p7_l07_stravinsky/img/p7_l07_stravinsky_retrato.webp",
+    "alt": "Retrato de Igor Stravinsky",
+    "query": "retrato de Igor Stravinsky",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l08_schoenberg_retrato",
+    "lesson": "7.8",
+    "dest": "lessons/p7_l08_schoenberg/img/p7_l08_schoenberg_retrato.webp",
+    "alt": "Retrato de Arnold Schoenberg",
+    "query": "retrato de Arnold Schoenberg",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l09_bartok_retrato",
+    "lesson": "7.9",
+    "dest": "lessons/p7_l09_bartok/img/p7_l09_bartok_retrato.webp",
+    "alt": "Retrato de Béla Bartók",
+    "query": "retrato de Béla Bartók",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l10_ravel_retrato",
+    "lesson": "7.10",
+    "dest": "lessons/p7_l10_figuras_menores/img/p7_l10_ravel_retrato.webp",
+    "alt": "Retrato de Maurice Ravel",
+    "query": "retrato de Maurice Ravel",
+    "status": "pending"
+  },
+  {
+    "id": "p7_l12_segunda_guerra",
+    "lesson": "7.12",
+    "dest": "lessons/p7_l12_fin_periodo/img/p7_l12_segunda_guerra.webp",
+    "alt": "Destrucción de la Segunda Guerra Mundial",
+    "query": "fotografía histórica de destrucción de ciudad europea tras la Segunda Guerra Mundial",
     "status": "pending"
   }
 ]

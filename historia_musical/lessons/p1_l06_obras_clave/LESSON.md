@@ -49,12 +49,12 @@ Egipto. Escuchá el timbre nasal y penetrante del instrumento (lección 1.2): es
 cualquier instrumento de viento moderno y te va a ayudar a entender por qué los griegos lo asociaban
 con el éxtasis dionisíaco.
 
-## 5. Reconstrucciones del Arpa de Ur
+## 5. Reconstrucciones de la Lira de Ur
 
 Buscá: "Lyres of Ur" o "Golden Lyre of Ur reconstruction". El Museo Británico y la Universidad de
-Pensilvania (Penn Museum) tienen réplicas construidas y grabadas de las liras y arpas encontradas
-en las tumbas reales de Ur (lección 1.4). Es la forma más directa de escuchar el timbre cálido y
-suave descripto en la lección 1.2.
+Pensilvania (Penn Museum) tienen réplicas construidas y grabadas de las liras encontradas en las
+tumbas reales de Ur (lección 1.4). Es la forma más directa de escuchar el timbre cálido y suave
+descripto en la lección 1.2.
 
 ## Tabla resumen
 
@@ -64,7 +64,7 @@ suave descripto en la lección 1.2.
 | Epitafio de Seikilos | griego, ~siglo I-II d.C. | melodía con mayor consenso de reconstrucción |
 | Primer Himno Délfico | griego, ~128 a.C. | música religiosa/ceremonial de competencia |
 | Reconstrucciones de aulos | griego | timbre nasal, penetrante, lengüeta doble |
-| Reconstrucciones del Arpa de Ur | mesopotámico, ~2500 a.C. | timbre cálido de cuerda antigua |
+| Reconstrucciones de la Lira de Ur | mesopotámico, ~2500 a.C. | timbre cálido de cuerda antigua |
 
 ## Preguntas de repaso
 

@@ -23,11 +23,15 @@ para todo el curso:
 ![Lira antigua de cuerdas](img/p1_l02_lira.webp)
 
 La lira es el instrumento más representativo de Mesopotamia y luego de Grecia. Imaginate una caja
-de resonancia de madera (a veces con forma de animal, como la famosa Lira de Toro de Ur) de la que
-salen dos brazos curvos unidos por una barra transversal; entre esa barra y la caja se tensan entre
-4 y 11 cuerdas, cada una afinada a una nota distinta. Se toca con los dedos de una mano pulsando
-las cuerdas, mientras la otra mano a veces "frena" las cuerdas que no quiere que sigan sonando
-(técnica que todavía usan los guitarristas hoy, se llama "apagado").
+de resonancia de madera de la que salen dos brazos curvos unidos por una barra transversal; entre
+esa barra y la caja se tensan entre 4 y 11 cuerdas, cada una afinada a una nota distinta. Se toca
+con los dedos de una mano pulsando las cuerdas, mientras la otra mano a veces "frena" las cuerdas
+que no quiere que sigan sonando (técnica que todavía usan los guitarristas hoy, se llama
+"apagado"). El ejemplar más famoso que se conservó es la Lira de Ur (conocida también como "Lira
+del Toro de Oro"), hallada por el arqueólogo Leonard Woolley en una tumba real de Ur (Mesopotamia,
+~2500 a.C.) y hoy reconstruida en el Museo Británico y el Penn Museum: tenía una caja decorada con
+una cabeza de toro de oro y lapislázuli, señal de que, además de instrumento musical, era un objeto
+de estatus y de prestigio religioso.
 
 **Cómo suena:** un sonido cálido, de ataque suave (no es un sonido percusivo y seco como una
 guitarra eléctrica), parecido a un arpa pequeña. No tiene trastes ni manera de alterar la altura de
@@ -36,14 +40,15 @@ elegir qué cuerdas pulsar y en qué orden.
 
 ## El arpa
 
-![Arpa/lira de Ur con cabeza de toro dorada](img/p1_l02_arpa_ur.webp)
+![Arpa antigua representada en el arte egipcio](img/p1_l02_arpa_ur.webp)
 
 Parecida en concepto a la lira pero sin la barra transversal: las cuerdas van directo de un marco
 triangular o en forma de arco a la caja de resonancia, con largos distintos para cada cuerda (las
-cuerdas más largas dan notas más graves). El Arpa de Ur, hallada en una tumba real de Ur
-(Mesopotamia, ~2500 a.C.) y hoy reconstruida en el Museo Británico y el Penn Museum, tenía una caja
-decorada con una cabeza de toro de oro y lapislázuli: era, además de instrumento musical, un objeto
-de estatus y de prestigio religioso.
+cuerdas más largas dan notas más graves). A diferencia de la lira, de la que se conservan
+instrumentos físicos completos, el arpa de esta época se conoce sobre todo por representaciones:
+aparece en relieves sumerios y, con mucha frecuencia, pintada en las paredes de tumbas egipcias,
+donde se ve a arpistas tocando arpas de arco bastante grandes, a veces casi tan altas como la
+persona que las toca.
 
 **Cómo suena:** más resonante y "abierto" que la lira, porque las cuerdas más largas vibran más
 tiempo. Es el antepasado directo del arpa de orquesta que vas a ver en el Romanticismo.
@@ -121,7 +126,7 @@ procesión o ahuyentar espíritus malos, según la creencia egipcia.
 3. ¿Qué oposición simbólica construyeron los griegos entre el aulos y la kithara?
 4. ¿Para qué se usaban la buccina y el cornu en Roma, y por qué no se los puede considerar
    instrumentos "melódicos" en el sentido moderno?
-5. ¿Qué tenía de especial el Arpa de Ur, más allá de ser un instrumento musical?
+5. ¿Qué tenía de especial la Lira de Ur, más allá de ser un instrumento musical?
 
 ### Respuestas
 
@@ -144,6 +149,6 @@ procesión o ahuyentar espíritus malos, según la creencia egipcia.
 5. Además de ser un instrumento de cuerda funcional, era un objeto de estatus: tenía una caja de
    resonancia decorada con una cabeza de toro de oro y lapislázuli, y se encontró en una tumba real,
    lo que indica que no era un instrumento cualquiera sino una pieza ligada al poder y al prestigio
-   religioso de quien lo poseía.
+   religioso de quien la poseía.
 
 [⬅ volver al índice del curso](../../README.md)

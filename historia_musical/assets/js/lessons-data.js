@@ -378,7 +378,7 @@ const LESSONS = [
     "summary": "la Ilustración, el ascenso de la burguesía, el cambio de mecenazgo",
     "summaryText": "la Ilustración, el ascenso de la burguesía, el cambio de mecenazgo",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.2",
@@ -387,7 +387,7 @@ const LESSONS = [
     "summary": "el fortepiano, la orquesta clásica estandarizada",
     "summaryText": "el fortepiano, la orquesta clásica estandarizada",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.3",
@@ -396,7 +396,7 @@ const LESSONS = [
     "summary": "claridad, homofonía, equilibrio formal, cómo suena",
     "summaryText": "claridad, homofonía, equilibrio formal, cómo suena",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.4",
@@ -405,7 +405,7 @@ const LESSONS = [
     "summary": "la forma sonata, la sinfonía, el cuarteto de cuerdas",
     "summaryText": "la forma sonata, la sinfonía, el cuarteto de cuerdas",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.5",
@@ -414,7 +414,7 @@ const LESSONS = [
     "summary": "la Revolución Francesa, las salas de concierto públicas, la edición musical masiva",
     "summaryText": "la Revolución Francesa, las salas de concierto públicas, la edición musical masiva",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.6",
@@ -423,7 +423,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.7",
@@ -432,7 +432,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.8",
@@ -441,7 +441,7 @@ const LESSONS = [
     "summary": "biografía y obra, el puente hacia el Romanticismo",
     "summaryText": "biografía y obra, el puente hacia el Romanticismo",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.9",
@@ -450,7 +450,7 @@ const LESSONS = [
     "summary": "Carl Philipp Emanuel Bach, Muzio Clementi, Antonio Salieri",
     "summaryText": "Carl Philipp Emanuel Bach, Muzio Clementi, Antonio Salieri",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.10",
@@ -459,7 +459,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "5.11",
@@ -468,7 +468,7 @@ const LESSONS = [
     "summary": "el Beethoven tardío, la Revolución Industrial y el cambio de sensibilidad",
     "summaryText": "el Beethoven tardío, la Revolución Industrial y el cambio de sensibilidad",
     "phase": "Fase 5 — Clasicismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.1",
@@ -477,7 +477,7 @@ const LESSONS = [
     "summary": "el individualismo romántico, los nacionalismos emergentes, la industrialización",
     "summaryText": "el individualismo romántico, los nacionalismos emergentes, la industrialización",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.2",
@@ -486,7 +486,7 @@ const LESSONS = [
     "summary": "el piano moderno, la orquesta ampliada, los instrumentos de válvula",
     "summaryText": "el piano moderno, la orquesta ampliada, los instrumentos de válvula",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.3",
@@ -495,7 +495,7 @@ const LESSONS = [
     "summary": "expresividad, música de programa, nacionalismo musical, cómo suena",
     "summaryText": "expresividad, música de programa, nacionalismo musical, cómo suena",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.4",
@@ -504,7 +504,7 @@ const LESSONS = [
     "summary": "los nacionalismos musicales, la consolidación de las casas de ópera, la crítica musical",
     "summaryText": "los nacionalismos musicales, la consolidación de las casas de ópera, la crítica musical",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.5",
@@ -513,7 +513,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.6",
@@ -522,7 +522,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.7",
@@ -531,7 +531,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.8",
@@ -540,7 +540,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.9",
@@ -549,7 +549,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.10",
@@ -558,7 +558,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.11",
@@ -567,7 +567,7 @@ const LESSONS = [
     "summary": "Robert Schumann, Felix Mendelssohn, Antonín Dvořák, Edvard Grieg",
     "summaryText": "Robert Schumann, Felix Mendelssohn, Antonín Dvořák, Edvard Grieg",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.12",
@@ -576,7 +576,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "6.13",
@@ -585,7 +585,7 @@ const LESSONS = [
     "summary": "la crisis de la tonalidad y el impresionismo que abren el siglo XX",
     "summaryText": "la crisis de la tonalidad y el impresionismo que abren el siglo XX",
     "phase": "Fase 6 — Romanticismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.1",
@@ -594,7 +594,7 @@ const LESSONS = [
     "summary": "la crisis de la tonalidad, la Primera Guerra Mundial, el fin de las certezas del XIX",
     "summaryText": "la crisis de la tonalidad, la Primera Guerra Mundial, el fin de las certezas del XIX",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.2",
@@ -603,7 +603,7 @@ const LESSONS = [
     "summary": "la orquesta ampliada, nuevos timbres y técnicas instrumentales",
     "summaryText": "la orquesta ampliada, nuevos timbres y técnicas instrumentales",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.3",
@@ -612,7 +612,7 @@ const LESSONS = [
     "summary": "impresionismo, atonalidad, politonalidad, cómo suena",
     "summaryText": "impresionismo, atonalidad, politonalidad, cómo suena",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.4",
@@ -621,7 +621,7 @@ const LESSONS = [
     "summary": "el dodecafonismo, el neoclasicismo",
     "summaryText": "el dodecafonismo, el neoclasicismo",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.5",
@@ -630,7 +630,7 @@ const LESSONS = [
     "summary": "el estreno de La consagración de la primavera, la Segunda Escuela de Viena",
     "summaryText": "el estreno de La consagración de la primavera, la Segunda Escuela de Viena",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.6",
@@ -639,7 +639,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.7",
@@ -648,7 +648,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.8",
@@ -657,7 +657,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.9",
@@ -666,7 +666,7 @@ const LESSONS = [
     "summary": "biografía y obra",
     "summaryText": "biografía y obra",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.10",
@@ -675,7 +675,7 @@ const LESSONS = [
     "summary": "Maurice Ravel, Anton Webern, Alban Berg, Sergei Prokofiev",
     "summaryText": "Maurice Ravel, Anton Webern, Alban Berg, Sergei Prokofiev",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.11",
@@ -684,7 +684,7 @@ const LESSONS = [
     "summary": "piezas de referencia del período y por qué escucharlas",
     "summaryText": "piezas de referencia del período y por qué escucharlas",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "7.12",
@@ -693,7 +693,7 @@ const LESSONS = [
     "summary": "la Segunda Guerra Mundial y el quiebre hacia las vanguardias de posguerra",
     "summaryText": "la Segunda Guerra Mundial y el quiebre hacia las vanguardias de posguerra",
     "phase": "Fase 7 — Modernismo",
-    "ready": false
+    "ready": true
   },
   {
     "num": "8.1",

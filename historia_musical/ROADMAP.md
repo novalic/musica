@@ -73,52 +73,52 @@ lección de figuras menores, obras clave / guía de escucha, y contexto históri
 
 | # | Lección | Qué aprendés | Estado |
 |---|---------|--------------|--------|
-| 5.1 | Contexto de inicio | la Ilustración, el ascenso de la burguesía, el cambio de mecenazgo | ⏳ |
-| 5.2 | Instrumentos del Clasicismo | el fortepiano, la orquesta clásica estandarizada | ⏳ |
-| 5.3 | La música del período | claridad, homofonía, equilibrio formal, cómo suena | ⏳ |
-| 5.4 | Forma y vocabulario técnico | la forma sonata, la sinfonía, el cuarteto de cuerdas | ⏳ |
-| 5.5 | Hitos importantes | la Revolución Francesa, las salas de concierto públicas, la edición musical masiva | ⏳ |
-| 5.6 | Joseph Haydn | biografía y obra | ⏳ |
-| 5.7 | Wolfgang Amadeus Mozart | biografía y obra | ⏳ |
-| 5.8 | Ludwig van Beethoven | biografía y obra, el puente hacia el Romanticismo | ⏳ |
-| 5.9 | Figuras menores | Carl Philipp Emanuel Bach, Muzio Clementi, Antonio Salieri | ⏳ |
-| 5.10 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ⏳ |
-| 5.11 | Fin del período | el Beethoven tardío, la Revolución Industrial y el cambio de sensibilidad | ⏳ |
+| 5.1 | Contexto de inicio | la Ilustración, el ascenso de la burguesía, el cambio de mecenazgo | ✅ |
+| 5.2 | Instrumentos del Clasicismo | el fortepiano, la orquesta clásica estandarizada | ✅ |
+| 5.3 | La música del período | claridad, homofonía, equilibrio formal, cómo suena | ✅ |
+| 5.4 | Forma y vocabulario técnico | la forma sonata, la sinfonía, el cuarteto de cuerdas | ✅ |
+| 5.5 | Hitos importantes | la Revolución Francesa, las salas de concierto públicas, la edición musical masiva | ✅ |
+| 5.6 | Joseph Haydn | biografía y obra | ✅ |
+| 5.7 | Wolfgang Amadeus Mozart | biografía y obra | ✅ |
+| 5.8 | Ludwig van Beethoven | biografía y obra, el puente hacia el Romanticismo | ✅ |
+| 5.9 | Figuras menores | Carl Philipp Emanuel Bach, Muzio Clementi, Antonio Salieri | ✅ |
+| 5.10 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ✅ |
+| 5.11 | Fin del período | el Beethoven tardío, la Revolución Industrial y el cambio de sensibilidad | ✅ |
 
 ## Fase 6 — Romanticismo
 
 | # | Lección | Qué aprendés | Estado |
 |---|---------|--------------|--------|
-| 6.1 | Contexto de inicio | el individualismo romántico, los nacionalismos emergentes, la industrialización | ⏳ |
-| 6.2 | Instrumentos del Romanticismo | el piano moderno, la orquesta ampliada, los instrumentos de válvula | ⏳ |
-| 6.3 | La música del período | expresividad, música de programa, nacionalismo musical, cómo suena | ⏳ |
-| 6.4 | Hitos importantes | los nacionalismos musicales, la consolidación de las casas de ópera, la crítica musical | ⏳ |
-| 6.5 | Frédéric Chopin | biografía y obra | ⏳ |
-| 6.6 | Franz Liszt | biografía y obra | ⏳ |
-| 6.7 | Richard Wagner | biografía y obra | ⏳ |
-| 6.8 | Giuseppe Verdi | biografía y obra | ⏳ |
-| 6.9 | Johannes Brahms | biografía y obra | ⏳ |
-| 6.10 | Piotr Ilich Tchaikovsky | biografía y obra | ⏳ |
-| 6.11 | Figuras menores | Robert Schumann, Felix Mendelssohn, Antonín Dvořák, Edvard Grieg | ⏳ |
-| 6.12 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ⏳ |
-| 6.13 | Fin del período | la crisis de la tonalidad y el impresionismo que abren el siglo XX | ⏳ |
+| 6.1 | Contexto de inicio | el individualismo romántico, los nacionalismos emergentes, la industrialización | ✅ |
+| 6.2 | Instrumentos del Romanticismo | el piano moderno, la orquesta ampliada, los instrumentos de válvula | ✅ |
+| 6.3 | La música del período | expresividad, música de programa, nacionalismo musical, cómo suena | ✅ |
+| 6.4 | Hitos importantes | los nacionalismos musicales, la consolidación de las casas de ópera, la crítica musical | ✅ |
+| 6.5 | Frédéric Chopin | biografía y obra | ✅ |
+| 6.6 | Franz Liszt | biografía y obra | ✅ |
+| 6.7 | Richard Wagner | biografía y obra | ✅ |
+| 6.8 | Giuseppe Verdi | biografía y obra | ✅ |
+| 6.9 | Johannes Brahms | biografía y obra | ✅ |
+| 6.10 | Piotr Ilich Tchaikovsky | biografía y obra | ✅ |
+| 6.11 | Figuras menores | Robert Schumann, Felix Mendelssohn, Antonín Dvořák, Edvard Grieg | ✅ |
+| 6.12 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ✅ |
+| 6.13 | Fin del período | la crisis de la tonalidad y el impresionismo que abren el siglo XX | ✅ |
 
 ## Fase 7 — Modernismo
 
 | # | Lección | Qué aprendés | Estado |
 |---|---------|--------------|--------|
-| 7.1 | Contexto de inicio | la crisis de la tonalidad, la Primera Guerra Mundial, el fin de las certezas del XIX | ⏳ |
-| 7.2 | Instrumentos y orquesta | la orquesta ampliada, nuevos timbres y técnicas instrumentales | ⏳ |
-| 7.3 | La música del período | impresionismo, atonalidad, politonalidad, cómo suena | ⏳ |
-| 7.4 | Forma y vocabulario técnico | el dodecafonismo, el neoclasicismo | ⏳ |
-| 7.5 | Hitos importantes | el estreno de La consagración de la primavera, la Segunda Escuela de Viena | ⏳ |
-| 7.6 | Claude Debussy | biografía y obra | ⏳ |
-| 7.7 | Igor Stravinsky | biografía y obra | ⏳ |
-| 7.8 | Arnold Schoenberg | biografía y obra | ⏳ |
-| 7.9 | Béla Bartók | biografía y obra | ⏳ |
-| 7.10 | Figuras menores | Maurice Ravel, Anton Webern, Alban Berg, Sergei Prokofiev | ⏳ |
-| 7.11 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ⏳ |
-| 7.12 | Fin del período | la Segunda Guerra Mundial y el quiebre hacia las vanguardias de posguerra | ⏳ |
+| 7.1 | Contexto de inicio | la crisis de la tonalidad, la Primera Guerra Mundial, el fin de las certezas del XIX | ✅ |
+| 7.2 | Instrumentos y orquesta | la orquesta ampliada, nuevos timbres y técnicas instrumentales | ✅ |
+| 7.3 | La música del período | impresionismo, atonalidad, politonalidad, cómo suena | ✅ |
+| 7.4 | Forma y vocabulario técnico | el dodecafonismo, el neoclasicismo | ✅ |
+| 7.5 | Hitos importantes | el estreno de La consagración de la primavera, la Segunda Escuela de Viena | ✅ |
+| 7.6 | Claude Debussy | biografía y obra | ✅ |
+| 7.7 | Igor Stravinsky | biografía y obra | ✅ |
+| 7.8 | Arnold Schoenberg | biografía y obra | ✅ |
+| 7.9 | Béla Bartók | biografía y obra | ✅ |
+| 7.10 | Figuras menores | Maurice Ravel, Anton Webern, Alban Berg, Sergei Prokofiev | ✅ |
+| 7.11 | Obras clave y guía de escucha | piezas de referencia del período y por qué escucharlas | ✅ |
+| 7.12 | Fin del período | la Segunda Guerra Mundial y el quiebre hacia las vanguardias de posguerra | ✅ |
 
 ## Fase 8 — Vanguardias de posguerra y postmodernismo clásico
 

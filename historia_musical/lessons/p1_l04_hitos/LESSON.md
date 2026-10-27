@@ -15,17 +15,17 @@ musicales más antiguos confirmados del mundo. El hito importa porque demuestra 
 crear música con intención —no ruido al azar, sino un objeto diseñado para producir notas
 específicas— es tan antigua como el arte rupestre y mucho más antigua que la agricultura.
 
-## El Arpa de Ur (~2500 a.C.)
+## La Lira de Ur (~2500 a.C.)
 
 ![Excavación arqueológica de Ur con instrumentos](img/p1_l04_excavacion_ur.webp)
 
 Hallada por el arqueólogo Leonard Woolley en las excavaciones del Cementerio Real de Ur
-(Mesopotamia, actual Irak) entre 1922 y 1934, junto a otras liras y arpas en tumbas reales. Una de
-ellas, conocida como la "Lira del Toro de Oro", tenía una cabeza de toro decorada con oro y
-lapislázuli. El hallazgo importa por dos motivos: primero, porque confirma que los instrumentos de
-cuerda complejos (con cajas de resonancia elaboradas y múltiples cuerdas afinadas) ya existían
-hace 4500 años; segundo, porque el hecho de enterrarlos junto a la realeza muestra el altísimo
-valor simbólico y religioso que tenía la música en esa cultura.
+(Mesopotamia, actual Irak) entre 1922 y 1934, junto a otras liras en tumbas reales. La más famosa de
+todas, conocida como la "Lira del Toro de Oro" (o Lira de Ur), tenía una cabeza de toro decorada con
+oro y lapislázuli. El hallazgo importa por dos motivos: primero, porque confirma que los
+instrumentos de cuerda complejos (con cajas de resonancia elaboradas y múltiples cuerdas afinadas)
+ya existían hace 4500 años; segundo, porque el hecho de enterrarlos junto a la realeza muestra el
+altísimo valor simbólico y religioso que tenía la música en esa cultura.
 
 ## La tablilla de afinación de Nippur (~1800 a.C.)
 
